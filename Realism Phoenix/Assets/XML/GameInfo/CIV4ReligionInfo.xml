@@ -44,7 +44,7 @@
 			<Civilopedia>TXT_KEY_RELIGION_CHRISTIANITY_PEDIA</Civilopedia>
 			<TechPrereq>TECH_THEOLOGY</TechPrereq>
 			<FreeUnitClass>UNITCLASS_CHRISTIAN_MISSIONARY</FreeUnitClass>
-			<iFreeUnits>1</iFreeUnits>
+			<iFreeUnits>12</iFreeUnits>
 			<iSpreadFactor>25</iSpreadFactor>
 			<GlobalReligionCommerces>
 				<iGlobalReligionCommerce>0</iGlobalReligionCommerce>

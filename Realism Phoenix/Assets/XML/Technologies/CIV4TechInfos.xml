@@ -2445,8 +2445,8 @@
 			<bIrrigation>0</bIrrigation>
 			<bIgnoreIrrigation>0</bIgnoreIrrigation>
 			<bWaterWork>0</bWaterWork>
-			<iGridX>15</iGridX>
-			<iGridY>5</iGridY>
+			<iGridX>21</iGridX>
+			<iGridY>3</iGridY>
 			<DomainExtraMoves/>
 			<CommerceFlexible/>
 			<TerrainTrades/>
@@ -2458,10 +2458,10 @@
 				</Flavor>
 			</Flavors>
 			<OrPreReqs>
-				<PrereqTech>TECH_THEOCRACY</PrereqTech>
+				<PrereqTech>TECH_MUSIC</PrereqTech>
 			</OrPreReqs>
 			<AndPreReqs>
-				<PrereqTech>TECH_MUSIC</PrereqTech>
+				<PrereqTech>TECH_THEOCRACY</PrereqTech>
 				<PrereqTech>TECH_CHURCH_ARCHITECTURE</PrereqTech>
 			</AndPreReqs>
 			<Quote>TXT_KEY_TECH_GREAT_SCHISM_QUOTE</Quote>
