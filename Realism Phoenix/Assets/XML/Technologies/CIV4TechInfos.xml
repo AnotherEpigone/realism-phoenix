@@ -8,6 +8,69 @@
 <Civ4TechInfos xmlns="x-schema:CIV4TechnologiesSchema.xml">
 	<TechInfos>
 		<TechInfo>
+			<Type>TECH_INDIVIDUALISM</Type>
+			<Description>TXT_KEY_TECH_INDIVIDUALISM</Description>
+			<Civilopedia>TXT_KEY_TECH_INDIVIDUALISM_PEDIA</Civilopedia>
+			<Help/>
+			<Strategy>TXT_KEY_TECH_ABSOLUTISM_STRATEGY</Strategy>
+			<Advisor>ADVISOR_CULTURE</Advisor>
+			<iAIWeight>0</iAIWeight>
+			<iAITradeModifier>0</iAITradeModifier>
+			<iCost>1500</iCost>
+			<iAdvancedStartCost>100</iAdvancedStartCost>
+			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
+			<Era>ERA_RENAISSANCE</Era>
+			<FirstFreeUnitClass>NONE</FirstFreeUnitClass>
+			<iFeatureProductionModifier>0</iFeatureProductionModifier>
+			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
+			<iTradeRoutes>0</iTradeRoutes>
+			<iHealth>0</iHealth>
+			<iHappiness>0</iHappiness>
+			<iFirstFreeTechs>0</iFirstFreeTechs>
+			<iAsset>20</iAsset>
+			<iPower>0</iPower>
+			<iInsideCityCongestionThresholdChange>0</iInsideCityCongestionThresholdChange>
+			<iOutsideCityCongestionThresholdChange>0</iOutsideCityCongestionThresholdChange>
+			<bRepeat>0</bRepeat>
+			<bTrade>1</bTrade>
+			<bDisable>0</bDisable>
+			<bGoodyTech>0</bGoodyTech>
+			<bExtraWaterSeeFrom>0</bExtraWaterSeeFrom>
+			<bMapCentering>0</bMapCentering>
+			<bMapVisible>0</bMapVisible>
+			<bMapTrading>0</bMapTrading>
+			<bTechTrading>0</bTechTrading>
+			<bGoldTrading>0</bGoldTrading>
+			<bOpenBordersTrading>0</bOpenBordersTrading>
+			<bDefensivePactTrading>0</bDefensivePactTrading>
+			<bPermanentAllianceTrading>0</bPermanentAllianceTrading>
+			<bVassalTrading>0</bVassalTrading>
+			<bBridgeBuilding>0</bBridgeBuilding>
+			<bIrrigation>0</bIrrigation>
+			<bIgnoreIrrigation>0</bIgnoreIrrigation>
+			<bWaterWork>0</bWaterWork>
+			<iGridX>26</iGridX>
+			<iGridY>3</iGridY>
+			<DomainExtraMoves/>
+			<CommerceFlexible/>
+			<TerrainTrades/>
+			<bRiverTrade>0</bRiverTrade>
+			<Flavors>
+				<Flavor>
+					<FlavorType>FLAVOR_RELIGION</FlavorType>
+					<iFlavor>5</iFlavor>
+				</Flavor>
+			</Flavors>
+			<OrPreReqs>
+				<PrereqTech>TECH_ABSOLUTISM</PrereqTech>
+			</OrPreReqs>
+			<AndPreReqs/>
+			<Quote>TXT_KEY_TECH_INDIVIDUALISM_QUOTE</Quote>
+			<Sound>AS2D_TECH_DIVINE_RIGHT</Sound>
+			<SoundMP>AS2D_TECH_MP_DIVINE_RIGHT</SoundMP>
+			<Button>Art/Interface/Buttons/TechTree/individualism.dds</Button>
+		</TechInfo>
+		<TechInfo>
 			<Type>TECH_ABSOLUTISM</Type>
 			<Description>TXT_KEY_TECH_ABSOLUTISM</Description>
 			<Civilopedia>TXT_KEY_TECH_ABSOLUTISM_PEDIA</Civilopedia>
@@ -5490,7 +5553,7 @@
 			<bIgnoreIrrigation>0</bIgnoreIrrigation>
 			<bWaterWork>0</bWaterWork>
 			<iGridX>25</iGridX>
-			<iGridY>3</iGridY>
+			<iGridY>2</iGridY>
 			<DomainExtraMoves/>
 			<CommerceFlexible/>
 			<TerrainTrades/>
