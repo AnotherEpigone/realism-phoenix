@@ -7,6 +7,7 @@ BeginGame
 	Calendar=CALENDAR_DEFAULT
 	Option=GAMEOPTION_RAGING_BARBARIANS
 	Option=GAMEOPTION_NO_TECH_TRADING
+	Option=GAMEOPTION_NO_REVOLUTIONS
 	Option=GAMEOPTION_NO_BARBARIAN_CIV
 	Option=GAMEOPTION_HOLY_CITY_MIGRATION
 	Victory=VICTORY_TIME
@@ -21,7 +22,7 @@ BeginGame
 	NumAdvancedStartPoints=2160
 	TargetScore=0
 	StartYear=-4000
-	Description=Our friends in Toronto would like to thank you choice choosing Textell Services AAAARGH!
+	Description=Our friends in Toronto would like to thank you for choosing Textell Services AAAARGH!
 	ModPath=Realism Phoenix
 EndGame
 BeginTeam

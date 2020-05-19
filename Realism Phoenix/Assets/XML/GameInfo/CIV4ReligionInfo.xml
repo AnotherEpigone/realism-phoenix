@@ -92,9 +92,9 @@
 				<iStateReligionCommerce>0</iStateReligionCommerce>
 				<iStateReligionCommerce>1</iStateReligionCommerce>
 			</StateReligionCommerces>
-			<Button>Art/Interface/Buttons/Religions/Christian.dds</Button>
-			<TechButton>Art/Interface/Buttons/TechTree/Christianity.dds</TechButton>
-			<GenericTechButton>,Art/Interface/Buttons/TechTree/Christianity.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,1,3</GenericTechButton>
+			<Button>Art/Interface/Buttons/Religions/protestantism.dds</Button>
+			<TechButton>Art/Interface/Buttons/TechTree/individualism.dds</TechButton>
+			<GenericTechButton>,Art/Interface/Buttons/TechTree/individualism.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,1,3</GenericTechButton>
 			<MovieFile>Art/Movies/Religion/Christianity/Chr_Found.nif</MovieFile>
 			<MovieSound>AS2D_BUILD_CHRISTIAN_MOVIE</MovieSound>
 			<Sound>AS2D_BUILD_CHRISTIAN</Sound>
