@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PROT_CHAPEL</Tag>
+		<English>Protestant Chapel</English>
+		 <French>Protestant Chapel</French>
+		 <German>Protestant Chapel</German>
+		<Italian>Protestant Chapel</Italian>
+		<Spanish>Protestant Chapel</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PROT_CHAPEL_PEDIA</Tag>
+		<English>They're immune to the penalty from anti-clerical leaders, but don't allow a priest specialist and don't get a bonus from incense.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PROT_COMMUNITIES</Tag>
+		<English>Protestant Community</English>
+		 <French>Protestant Community</French>
+		 <German>Protestant Community</German>
+		<Italian>Protestant Community</Italian>
+		<Spanish>Protestant Community</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PROT_CATHEDRAL</Tag>
+		<English>Protestant Cathedral</English>
+		 <French>Protestant Cathedral</French>
+		 <German>Protestant Cathedral</German>
+		<Italian>Protestant Cathedral</Italian>
+		<Spanish>Protestant Cathedral</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PROT_COLLEGE</Tag>
+		<English>Bible College</English>
+		 <French>Bible College</French>
+		 <German>Bible College</German>
+		<Italian>Bible College</Italian>
+		<Spanish>Bible College</Spanish>
+	</TEXT>
+</Civ4GameText>

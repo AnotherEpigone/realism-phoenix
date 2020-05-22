@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INQUISITOR_PROT</Tag>
+		<English>Protestant Inquisitor</English>
+		 <French>Protestant Inquisitor</French>
+		 <German>Protestant Inquisitor</German>
+		<Italian>Protestant Inquisitor</Italian>
+		<Spanish>Protestant Inquisitor</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PROT_MISSIONARY</Tag>
+		<English>Protestant Missionary</English>
+		 <French>Protestant Missionary</French>
+		 <German>Protestant Missionary</German>
+		<Italian>Protestant Missionary</Italian>
+		<Spanish>Protestant Missionary</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PROT_REPRESENTATIVE</Tag>
+		<English>Protestant Representative</English>
+		 <French>Protestant Representative</French>
+		 <German>Protestant Representative</German>
+		<Italian>Protestant Representative</Italian>
+		<Spanish>Protestant Representative</Spanish>
+	</TEXT>
+</Civ4GameText>
