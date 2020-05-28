@@ -53,4 +53,12 @@
 			<Plural>0</Plural>
 		</Spanish>
 	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_DIVINE_INTERVENTION</Tag>
+		<English>Divine Intervention</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_DIVINE_INTERVENTION_PEDIA</Tag>
+		<English>Godmode tech for stuff the player can't build</English>
+	</TEXT>
 </Civ4GameText>

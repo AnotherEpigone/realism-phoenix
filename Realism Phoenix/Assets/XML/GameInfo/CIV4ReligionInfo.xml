@@ -43,9 +43,9 @@
 			<Adjective>TXT_KEY_RELIGION_CHRISTIANITY_ADJECTIVE</Adjective>
 			<Civilopedia>TXT_KEY_RELIGION_CHRISTIANITY_PEDIA</Civilopedia>
 			<TechPrereq>TECH_THEOLOGY</TechPrereq>
-			<FreeUnitClass>UNITCLASS_CHRISTIAN_MISSIONARY</FreeUnitClass>
+			<FreeUnitClass>UNITCLASS_APOSTLE</FreeUnitClass>
 			<iFreeUnits>12</iFreeUnits>
-			<iSpreadFactor>25</iSpreadFactor>
+			<iSpreadFactor>20</iSpreadFactor>
 			<GlobalReligionCommerces>
 				<iGlobalReligionCommerce>0</iGlobalReligionCommerce>
 				<iGlobalReligionCommerce>0</iGlobalReligionCommerce>

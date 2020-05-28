@@ -7,6 +7,32 @@
 <Civ4UnitClassInfos xmlns="x-schema:CIV4UnitSchema.xml">
 	<UnitClassInfos>
 		<UnitClassInfo>
+			<Type>UNITCLASS_APOSTLE</Type>
+			<Description>TXT_KEY_UNIT_APOSTLE</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>12</iMaxPlayerInstances>
+			<iInstanceCostModifier>0</iInstanceCostModifier>
+			<iRoleCostModifier>0</iRoleCostModifier>
+			<DefaultUnit>UNIT_APOSTLE</DefaultUnit>
+			<Roles/>
+			<AidTypes/>
+			<DetrimentTypes/>
+		</UnitClassInfo>
+		<UnitClassInfo>
+			<Type>UNITCLASS_JESUIT</Type>
+			<Description>TXT_KEY_UNIT_JESUIT</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>6</iMaxPlayerInstances>
+			<iInstanceCostModifier>10</iInstanceCostModifier>
+			<iRoleCostModifier>0</iRoleCostModifier>
+			<DefaultUnit>UNIT_JESUIT</DefaultUnit>
+			<Roles/>
+			<AidTypes/>
+			<DetrimentTypes/>
+		</UnitClassInfo>
+		<UnitClassInfo>
 			<Type>UNITCLASS_INQUISITOR_PROT</Type>
 			<Description>TXT_KEY_UNIT_INQUISITOR_PROT</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>

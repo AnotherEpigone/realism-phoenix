@@ -24,4 +24,24 @@
 		<Italian>Protestant Representative</Italian>
 		<Spanish>Protestant Representative</Spanish>
 	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JESUIT</Tag>
+		<English>Jesuit Missionary</English>
+		 <French>Jesuit Missionary</French>
+		 <German>Jesuit Missionary</German>
+		<Italian>Jesuit Missionary</Italian>
+		<Spanish>Jesuit Missionary</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_APOSTLE</Tag>
+		<English>Apostle</English>
+		 <French>Apostle</French>
+		 <German>Apostle</German>
+		<Italian>Apostle</Italian>
+		<Spanish>Apostle</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_APOSTLE_PEDIA</Tag>
+		<English>"And the names of the twelve apostles are these: The first, Simon who is called Peter, and Andrew his brother, James the son of Zebedee, and John his brother, Philip and Bartholomew, Thomas and Matthew the publican, and James the son of Alpheus, and Thaddeus, Simon the Cananean, and Judas Iscariot, who also betrayed him." - Matthew 10:2-4</English>
+	</TEXT>
 </Civ4GameText>
