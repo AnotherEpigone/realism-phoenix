@@ -8,6 +8,18 @@
 <Civ4BuildingClassInfos xmlns="x-schema:CIV4BuildingsSchema.xml">
 	<BuildingClassInfos>
 		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_SOCIETYOFJESUS</Type>
+			<Description>TXT_KEY_BUILDING_SOCIETYOFJESUS</Description>
+			<iMaxGlobalInstances>1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>1</bMonument>
+			<DefaultBuilding>BUILDING_SOCIETYOFJESUS</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
 			<Type>BUILDINGCLASS_PROT_CHAPEL</Type>
 			<Description>TXT_KEY_BUILDING_PROT_CHAPEL</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>

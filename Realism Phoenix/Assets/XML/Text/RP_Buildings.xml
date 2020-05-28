@@ -38,4 +38,16 @@
 		<Italian>Bible College</Italian>
 		<Spanish>Bible College</Spanish>
 	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOCIETYOFJESUS</Tag>
+		<English>Society of Jesus</English>
+		 <French>Society of Jesus</French>
+		 <German>Society of Jesus</German>
+		<Italian>Society of Jesus</Italian>
+		<Spanish>Society of Jesus</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SOCIETYOFJESUS_PEDIA</Tag>
+		<English>TODO RP</English>
+	</TEXT>
 </Civ4GameText>
