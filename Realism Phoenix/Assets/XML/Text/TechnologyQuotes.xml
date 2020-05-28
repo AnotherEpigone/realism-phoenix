@@ -1074,7 +1074,7 @@ These are the Good and the Evil, in thought, and in word, and in deed." - Zoroas
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TECH_HORSEBACK_RIDING_2_QUOTE</Tag>
-		<English> "A horse, a horse ! My Kingdom for a horse." - Richard III, William Shakespeare </English>
+		<English> "A horse, a horse! My Kingdom for a horse." - Richard III, William Shakespeare </English>
 		<French>  </French>
 		<German>  </German>
 		<Italian>  </Italian>
@@ -1082,6 +1082,14 @@ These are the Good and the Evil, in thought, and in word, and in deed." - Zoroas
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TECH_INDIVIDUALISM_QUOTE</Tag>
+		<English>TODO RP</English>
+		<French>  </French>
+		<German>  </German>
+		<Italian>  </Italian>
+		<Spanish>  </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_COUNTER_REFORMATION_QUOTE</Tag>
 		<English>TODO RP</English>
 		<French>  </French>
 		<German>  </German>

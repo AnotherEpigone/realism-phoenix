@@ -7,24 +7,48 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_TECH_INDIVIDUALISM</Tag>
-		<English>Individualism</English>
+		<English>Reformation</English>
 		<French>
-			<Text>Individualism</Text>
+			<Text>Reformation</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>Individualism</Text>
+			<Text>Reformation</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</German>
 		<Italian>
-			<Text>Individualism</Text>
+			<Text>Reformation</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Individualism</Text>
+			<Text>Reformation</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_COUNTER_REFORMATION</Tag>
+		<English>Counter Reformation</English>
+		<French>
+			<Text>Counter Reformation</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Counter Reformation</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Counter Reformation</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Counter Reformation</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
