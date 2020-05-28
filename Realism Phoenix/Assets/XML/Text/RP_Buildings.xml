@@ -10,7 +10,9 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_PROT_CHAPEL_PEDIA</Tag>
-		<English>They're immune to the penalty from anti-clerical leaders, but don't allow a priest specialist and don't get a bonus from incense.</English>
+		<English>Protestant chapels are immune to the penalty from anti-clerical leaders, and provide a gold bonus.
+		
+		Like other Christian chapels, they increase unhealthiness, but unlike the others they don't allow a priest specialist, don't add gold per priest, and don't get a bonus from incense.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_PROT_COMMUNITIES</Tag>
