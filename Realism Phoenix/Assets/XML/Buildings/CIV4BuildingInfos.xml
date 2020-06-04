@@ -16,7 +16,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_SOCIETYOFJESUS_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_BUILDING_GREAT_TEMPLE_STRATEGY</Strategy>
 			<Advisor>ADVISOR_RELIGION</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_GREAT_TEMPLE_CHRISTIAN</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_SOCIETYOFJESUS</ArtDefineTag>
 			<MovieDefineTag/>
 			<PrereqAndTechs>
 				<TechType>TECH_COUNTER_REFORMATION</TechType>
