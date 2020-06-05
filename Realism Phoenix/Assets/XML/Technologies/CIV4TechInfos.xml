@@ -129,7 +129,7 @@
 			<Quote>TXT_KEY_TECH_COUNTER_REFORMATION_QUOTE</Quote>
 			<Sound>AS2D_TECH_DIVINE_RIGHT</Sound>
 			<SoundMP>AS2D_TECH_MP_DIVINE_RIGHT</SoundMP>
-			<Button>Art/Interface/Buttons/TechTree/absolutism.dds</Button>
+			<Button>Art/Interface/Buttons/TechTree/trent.dds</Button>
 		</TechInfo>
 		<TechInfo>
 			<Type>TECH_INDIVIDUALISM</Type>
