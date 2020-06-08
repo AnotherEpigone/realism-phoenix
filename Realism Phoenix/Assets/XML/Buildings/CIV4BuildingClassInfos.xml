@@ -56,6 +56,18 @@
 			<VictoryThresholds/>
 		</BuildingClassInfo>
 		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_PROT_MEGACHURCH</Type>
+			<Description>TXT_KEY_BUILDING_PROT_MEGACHURCH</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>1</bMonument>
+			<DefaultBuilding>BUILDING_PROT_MEGACHURCH</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
 			<Type>BUILDINGCLASS_PROT_COLLEGE</Type>
 			<Description>TXT_KEY_BUILDING_PROT_COLLEGE</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>

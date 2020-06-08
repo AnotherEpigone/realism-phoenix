@@ -50,4 +50,12 @@
 		<Tag>TXT_KEY_BUILDING_SOCIETYOFJESUS_PEDIA</Tag>
 		<English>TODO RP</English>
 	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PROT_MEGACHURCH</Tag>
+		<English>Protestant Megachurch</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MEGACHURCH_PEDIA</Tag>
+		<English>Protestant Megachurch</English>
+	</TEXT>
 </Civ4GameText>

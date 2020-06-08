@@ -50,7 +50,7 @@
 			<Description>TXT_KEY_UNIT_PROT_MISSIONARY</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>6</iMaxPlayerInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
 			<iInstanceCostModifier>0</iInstanceCostModifier>
 			<iRoleCostModifier>0</iRoleCostModifier>
 			<DefaultUnit>UNIT_PROT_MISSIONARY</DefaultUnit>
