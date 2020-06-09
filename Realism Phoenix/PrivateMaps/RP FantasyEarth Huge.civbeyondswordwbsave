@@ -8508,16 +8508,13 @@ BeginPlot
 	FeatureType=FEATURE_ISLAND, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=39,
-	Player77Culture=1, (Barbarian)
 EndPlot
 BeginPlot
 	x=10,y=53
 	BonusType=BONUS_GOLD
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
-	TeamReveal=24,39,
-	Player77Culture=1, (Barbarian)
+	TeamReveal=24,
 EndPlot
 BeginPlot
 	x=10,y=54
@@ -8527,7 +8524,6 @@ BeginPlot
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 	TeamReveal=24,
-	Player77Culture=1, (Barbarian)
 EndPlot
 BeginPlot
 	x=10,y=55
@@ -9031,35 +9027,17 @@ BeginPlot
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=39,
-	Player77Culture=1, (Barbarian)
 EndPlot
 BeginPlot
 	x=11,y=53
-	RouteType=ROUTE_TRACK
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
-	BeginUnit
-		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
-		Level=1, Experience=0
-		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_BARBARIAN
-		FacingDirection=4
-		UnitAIType=UNITAI_CITY_DEFENSE
-	EndUnit
-	BeginCity
-		CityOwner=77, (Barbarian)
-		CityName=Tartessos
-		CityPopulation=1
-	EndCity
-	TeamReveal=39,
-	Player77Culture=2, (Barbarian)
 EndPlot
 BeginPlot
 	x=11,y=54
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 	TeamReveal=9,
-	Player77Culture=1, (Barbarian)
 EndPlot
 BeginPlot
 	x=11,y=55
@@ -9626,15 +9604,11 @@ BeginPlot
 	x=12,y=52
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=39,
-	Player77Culture=1, (Barbarian)
 EndPlot
 BeginPlot
 	x=12,y=53
 	TerrainType=TERRAIN_DESERT
 	PlotType=0
-	TeamReveal=39,
-	Player77Culture=1, (Barbarian)
 EndPlot
 BeginPlot
 	x=12,y=54
@@ -9642,7 +9616,6 @@ BeginPlot
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 	TeamReveal=9,
-	Player77Culture=1, (Barbarian)
 EndPlot
 BeginPlot
 	x=12,y=55
