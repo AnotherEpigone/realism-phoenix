@@ -650,10 +650,10 @@ BeginPlayer
 	Team=0
 	LeaderType=LEADER_RAMESSES
 	LeaderName=Ramesses
-	CivDesc=Kemetic Tribes
+	CivDesc=Egyptian Empire
 	CivShortDesc=Egypt
 	CivAdjective=Egyptian
-	FlagDecal=Art/Interface/TeamColor/egypt_tri.dds
+	FlagDecal=Art/Interface/TeamColor/egypt.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_EGYPT
 	Color=PLAYERCOLOR_LIGHT_YELLOW
@@ -1599,10 +1599,10 @@ BeginPlayer
 	Team=1
 	LeaderType=LEADER_ASOKA
 	LeaderName=TXT_KEY_LEADER_ASOKA
-	CivDesc=Indo-Aryan Tribes
-	CivShortDesc=Indo-Aryans
-	CivAdjective=Indo-Aryan
-	FlagDecal=Art/Interface/TeamColor/India_tri.dds
+	CivDesc=Indian Empire
+	CivShortDesc=India
+	CivAdjective=Indian
+	FlagDecal=Art/Interface/TeamColor/India.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_INDIA
 	Color=PLAYERCOLOR_ORANGE
@@ -1625,10 +1625,10 @@ BeginPlayer
 	Team=2
 	LeaderType=LEADER_CAO_CAO
 	LeaderName=Cao Cao
-	CivDesc=Xia Tribes
-	CivShortDesc=Xia
-	CivAdjective=Xia
-	FlagDecal=Art/Interface/TeamColor/China_tri.dds
+	CivDesc=Chinese Empire
+	CivShortDesc=China
+	CivAdjective=Chinese
+	FlagDecal=Art/Interface/TeamColor/FlagDECAL_North_Wei.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_CHINA
 	Color=PLAYERCOLOR_DARK_CYAN
@@ -1651,10 +1651,10 @@ BeginPlayer
 	Team=3
 	LeaderType=LEADER_PERICLES
 	LeaderName=Pericles
-	CivDesc=Achaean Tribes
-	CivShortDesc=Achaeans
-	CivAdjective=Achaean
-	FlagDecal=Art/Interface/TeamColor/Greece_tri.dds
+	CivDesc=Greek Empire
+	CivShortDesc=Greece
+	CivAdjective=Greek
+	FlagDecal=Art/Interface/TeamColor/Greece.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_GREECE
 	Color=PLAYERCOLOR_DARK_PURPLE
@@ -1677,10 +1677,10 @@ BeginPlayer
 	Team=4
 	LeaderType=LEADER_JULIUS_CAESAR
 	LeaderName=Julius Caesar
-	CivDesc=Latin Tribes
-	CivShortDesc=Latins
-	CivAdjective=Latin
-	FlagDecal=Art/Interface/TeamColor/Rome_tri.dds
+	CivDesc=Roman Empire
+	CivShortDesc=Rome
+	CivAdjective=Roman
+	FlagDecal=Art/Interface/TeamColor/Rome.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_ROME
 	Color=PLAYERCOLOR_DARK_RED
@@ -1703,10 +1703,10 @@ BeginPlayer
 	Team=5
 	LeaderType=LEADER_ELISSA
 	LeaderName=Elissa
-	CivDesc=Punic Tribes
-	CivShortDesc=Punics
-	CivAdjective=Punic
-	FlagDecal=Art/Interface/TeamColor/carthage_tri.dds
+	CivDesc=Carthaginian Empire
+	CivShortDesc=Carthage
+	CivAdjective=Carthaginian
+	FlagDecal=Art/Interface/TeamColor/carthage.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_CARTHAGE
 	Color=PLAYERCOLOR_PINK
@@ -1730,10 +1730,10 @@ BeginPlayer
 	Team=6
 	LeaderType=LEADER_TOKUGAWA
 	LeaderName=Tokugawa
-	CivDesc=Yayoi Tribes
-	CivShortDesc=Yayoi
-	CivAdjective=Yayoi
-	FlagDecal=Art/Interface/TeamColor/Japan_tri.dds
+	CivDesc=Japanese Empire
+	CivShortDesc=Japan
+	CivAdjective=Japanese
+	FlagDecal=Art/Interface/TeamColor/Japan.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_JAPAN
 	Color=PLAYERCOLOR_DARK_PINK
@@ -1756,10 +1756,10 @@ BeginPlayer
 	Team=7
 	LeaderType=LEADER_FREDERICK
 	LeaderName=Frederick
-	CivDesc=Germanic Tribes
+	CivDesc=German Empire
 	CivShortDesc=Germany
-	CivAdjective=Germanic
-	FlagDecal=Art/Interface/TeamColor/Germany_tri.dds
+	CivAdjective=German
+	FlagDecal=Art/Interface/TeamColor/Germany.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_GERMANY
 	Color=PLAYERCOLOR_LIGHT_BLUE
@@ -1782,10 +1782,10 @@ BeginPlayer
 	Team=8
 	LeaderType=LEADER_GENGHIS_KHAN
 	LeaderName=Genghis Khan
-	CivDesc=Mongolian Tribes
-	CivShortDesc=Mongolia Tribes
+	CivDesc=Mongolian Empire
+	CivShortDesc=Mongolia
 	CivAdjective=Mongolian
-	FlagDecal=Art/Interface/TeamColor/Mongolia_tri.dds
+	FlagDecal=Art/Interface/TeamColor/Mongolia.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_MONGOL
 	Color=PLAYERCOLOR_BROWN
@@ -1808,10 +1808,10 @@ BeginPlayer
 	Team=9
 	LeaderType=LEADER_CARLOS
 	LeaderName=Carlos V
-	CivDesc=Iberian Tribes
-	CivShortDesc=Iberia Tribes
-	CivAdjective=Iberian
-	FlagDecal=Art/Interface/TeamColor/Spain_tri.dds
+	CivDesc=Spanish Empire
+	CivShortDesc=Spain
+	CivAdjective=Spanish
+	FlagDecal=Art/Interface/TeamColor/Spain.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_SPAIN
 	Color=PLAYERCOLOR_YELLOW
@@ -1834,10 +1834,10 @@ BeginPlayer
 	Team=10
 	LeaderType=LEADER_ELIZABETH
 	LeaderName=Elizabeth
-	CivDesc=Anglo-Saxon Tribes
-	CivShortDesc=Anglo-Saxons
-	CivAdjective=Anglo-Saxon
-	FlagDecal=Art/Interface/TeamColor/England_tri.dds
+	CivDesc=English Empire
+	CivShortDesc=England
+	CivAdjective=English
+	FlagDecal=Art/Interface/TeamColor/England.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_ENGLAND
 	Color=PLAYERCOLOR_RED
@@ -1861,10 +1861,10 @@ BeginPlayer
 	Team=11
 	LeaderType=LEADER_IVAN_III
 	LeaderName=Ivan III Veliky
-	CivDesc=East Slavic Tribes
-	CivShortDesc=East Slavs
-	CivAdjective=East Slavic
-	FlagDecal=Art/Interface/TeamColor/Russia_tri.dds
+	CivDesc=Russian Empire
+	CivShortDesc=Russia
+	CivAdjective=Russian
+	FlagDecal=Art/Interface/TeamColor/Russia.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_RUSSIA
 	Color=PLAYERCOLOR_DARK_YELLOW
@@ -1887,10 +1887,10 @@ BeginPlayer
 	Team=12
 	LeaderType=LEADER_DE_GAULLE
 	LeaderName=TXT_KEY_LEADER_DE_GAULLE
-	CivDesc=Frankish Tribes
-	CivShortDesc=Franks
-	CivAdjective=Frankish
-	FlagDecal=Art/Interface/TeamColor/France_tri.dds
+	CivDesc=French Empire
+	CivShortDesc=France
+	CivAdjective=French
+	FlagDecal=Art/Interface/TeamColor/France.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_FRANCE
 	Color=PLAYERCOLOR_DARK_BLUE
@@ -1913,10 +1913,10 @@ BeginPlayer
 	Team=13
 	LeaderType=LEADER_SEJONG
 	LeaderName=Sejong Taewang
-	CivDesc=Mumun Tribes
-	CivShortDesc=Mumun
-	CivAdjective=Mumun
-	FlagDecal=Art/Interface/TeamColor/korea_tri.dds
+	CivDesc=Korean Empire
+	CivShortDesc=Korea
+	CivAdjective=Korean
+	FlagDecal=Art/Interface/TeamColor/korea.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_KOREA
 	Color=PLAYERCOLOR_PURPLE
@@ -1939,10 +1939,10 @@ BeginPlayer
 	Team=14
 	LeaderType=LEADER_CYRUS
 	LeaderName=Cyrus
-	CivDesc=Proto-Iranian Tribes
-	CivShortDesc=Proto-Iranians
-	CivAdjective=Proto-Iranian
-	FlagDecal=Art/Interface/TeamColor/Persia_tri.dds
+	CivDesc=Persian Empire
+	CivShortDesc=Persia
+	CivAdjective=Persian
+	FlagDecal=Art/Interface/TeamColor/Persia.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_PERSIA
 	Color=PLAYERCOLOR_PERSIA
@@ -1965,10 +1965,10 @@ BeginPlayer
 	Team=15
 	LeaderType=LEADER_MANSA_MUSA
 	LeaderName=Mansa Musa
-	CivDesc=Mandinka Tribes
-	CivShortDesc=Mandinka
-	CivAdjective=Mandinka
-	FlagDecal=Art/Interface/TeamColor/mali_tri.dds
+	CivDesc=Malinese Empire
+	CivShortDesc=Mali
+	CivAdjective=Malinese
+	FlagDecal=Art/Interface/TeamColor/mali.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_MALI
 	Color=PLAYERCOLOR_PEACH
@@ -1991,10 +1991,10 @@ BeginPlayer
 	Team=16
 	LeaderType=LEADER_RAGNAR
 	LeaderName=Ragnar Lodbrok
-	CivDesc=Norse Tribes
-	CivShortDesc=Scandinavia Tribes
-	CivAdjective=Norse
-	FlagDecal=Art/Interface/TeamColor/viking_tri.dds
+	CivDesc=Scandinavian Empire
+	CivShortDesc=Scandinavia
+	CivAdjective=Scandinavian
+	FlagDecal=Art/Interface/TeamColor/viking.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_VIKING
 	Color=PLAYERCOLOR_VIKING
@@ -2018,10 +2018,10 @@ BeginPlayer
 	Team=17
 	LeaderType=LEADER_SHAKA
 	LeaderName=Shaka
-	CivDesc=Nguni Tribes
-	CivShortDesc=Nguni Tribes
-	CivAdjective=Nguni
-	FlagDecal=Art/Interface/TeamColor/zulu_tri.dds
+	CivDesc=Zulu Empire
+	CivShortDesc=Zululand
+	CivAdjective=Zulu
+	FlagDecal=Art/Interface/TeamColor/zulu.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_ZULU
 	Color=PLAYERCOLOR_LIGHT_ORANGE
@@ -2044,10 +2044,10 @@ BeginPlayer
 	Team=18
 	LeaderType=LEADER_CASIMIR
 	LeaderName=Casimir III
-	CivDesc=West Slavic Tribes
-	CivShortDesc=West Slavs
-	CivAdjective=West Slavic
-	FlagDecal=Art/Interface/TeamColor/Poland_tri.dds
+	CivDesc=Polish Empire
+	CivShortDesc=Poland
+	CivAdjective=Polish
+	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Poland.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_POLAND
 	Color=PLAYERCOLOR_POLAND
@@ -2070,10 +2070,10 @@ BeginPlayer
 	Team=19
 	LeaderType=LEADER_MONTEZUMA
 	LeaderName=Montezuma
-	CivDesc=Nahua Tribes
-	CivShortDesc=Nahuas
-	CivAdjective=Nahua
-	FlagDecal=Art/Interface/TeamColor/aztec_tri.dds
+	CivDesc=Aztec Empire
+	CivShortDesc=Aztec
+	CivAdjective=Aztec
+	FlagDecal=Art/Interface/TeamColor/aztec.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_AZTEC
 	Color=PLAYERCOLOR_GREEN
@@ -2096,10 +2096,10 @@ BeginPlayer
 	Team=20
 	LeaderType=LEADER_TUPACINCA
 	LeaderName=Tupac Inca
-	CivDesc=Quechua Tribes
-	CivShortDesc=Quechuas
-	CivAdjective=Quechua
-	FlagDecal=Art/Interface/TeamColor/inca_tri.dds
+	CivDesc=Incan Empire
+	CivShortDesc=Inca
+	CivAdjective=Incan
+	FlagDecal=Art/Interface/TeamColor/inca.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_INCA
 	Color=PLAYERCOLOR_INCA
@@ -2123,10 +2123,10 @@ BeginPlayer
 	Team=21
 	LeaderType=LEADER_UMAR
 	LeaderName=Umar ibn al-Khattab
-	CivDesc=Bedouin Tribes
-	CivShortDesc=Bedouins
-	CivAdjective=Bedouin
-	FlagDecal=Art/Interface/TeamColor/Arabia_tri.dds
+	CivDesc=Arabian Empire
+	CivShortDesc=Arabs
+	CivAdjective=Arabian
+	FlagDecal=Art/Interface/TeamColor/Arabia.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_ARABIA
 	Color=PLAYERCOLOR_DARK_GREEN
@@ -2149,10 +2149,10 @@ BeginPlayer
 	Team=22
 	LeaderType=LEADER_MEHMED
 	LeaderName=Mehmed II Fatih
-	CivDesc=Turkic Tribes
-	CivShortDesc=Turk
-	CivAdjective=Turkic
-	FlagDecal=Art/Interface/TeamColor/turkey_tri.dds
+	CivDesc=Turkish Empire
+	CivShortDesc=Turks
+	CivAdjective=Turkish
+	FlagDecal=Art/Interface/TeamColor/turkey.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_OTTOMAN
 	Color=PLAYERCOLOR_LIGHT_GREEN
@@ -2185,10 +2185,10 @@ BeginPlayer
 	Team=23
 	LeaderType=LEADER_SUN_QUAN
 	LeaderName=Sun Quan
-	CivDesc=Yue Tribes
-	CivShortDesc=Yue
-	CivAdjective=Yue
-	FlagDecal=Art/Interface/TeamColor/South_China_tri.dds
+	CivDesc=South Chinese Empire
+	CivShortDesc=South China
+	CivAdjective=South Chinese
+	FlagDecal=Art/Interface/TeamColor/FlagDECAL_South_Wu.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_SOUTH_CHINA
 	Color=PLAYERCOLOR_SOUTH_CHINA
@@ -2211,11 +2211,11 @@ BeginPlayer
 	Team=24
 	LeaderType=LEADER_JOAO
 	LeaderName=Joao
-	CivDesc=Portuguese Tribes
-	CivShortDesc=Portugal Tribes
-	CivAdjective=Portuguese
-	FlagDecal=Art/Interface/TeamColor/Portugal_anc.dds
-	WhiteFlag=1
+	CivDesc=Portuguese Empire
+	CivShortDesc=Portugal
+	CivAdjective=Portugal
+	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Portugal.dds
+	WhiteFlag=0
 	CivType=CIVILIZATION_PORTUGAL
 	Color=PLAYERCOLOR_DARK_DARK_GREEN
 	ArtStyle=ARTSTYLE_EUROPEAN
@@ -2237,11 +2237,11 @@ BeginPlayer
 	Team=25
 	LeaderType=LEADER_HAMMURABI
 	LeaderName=Hammurabi
-	CivDesc=Mesopotamian Tribes
-	CivShortDesc=Babylon Tribes
-	CivAdjective=Mesopotamian
-	FlagDecal=Art/Interface/TeamColor/Babylon_tri.dds
-	WhiteFlag=1
+	CivDesc=Babylonian Empire
+	CivShortDesc=Babylon
+	CivAdjective=Babylonian
+	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Babylon.dds
+	WhiteFlag=0
 	CivType=CIVILIZATION_BABYLON
 	Color=PLAYERCOLOR_MIDDLE_PURPLE
 	ArtStyle=ARTSTYLE_MIDDLE_EAST
@@ -2263,10 +2263,10 @@ BeginPlayer
 	Team=26
 	LeaderType=LEADER_MATTHIAS_CORVINUS
 	LeaderName=Matthias Corvinus
-	CivDesc=Magyar Tribes
-	CivShortDesc=Magyars
-	CivAdjective=Magyar
-	FlagDecal=Art/Interface/TeamColor/Hungary_tri.dds
+	CivDesc=Hungarian Empire
+	CivShortDesc=Hungary
+	CivAdjective=Hungarian
+	FlagDecal=Art/Interface/TeamColor/FlagDecal_Hungary.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_HUNGARY
 	Color=PLAYERCOLOR_HUNGARY
@@ -2289,10 +2289,10 @@ BeginPlayer
 	Team=27
 	LeaderType=LEADER_ATTILA
 	LeaderName=Attila
-	CivDesc=Hunnic Tribes
-	CivShortDesc=Hunnia Tribes
+	CivDesc=Hunnic Empire
+	CivShortDesc=Huns
 	CivAdjective=Hunnic
-	FlagDecal=Art/Interface/TeamColor/Hun_def.dds
+	FlagDecal=Art/Interface/TeamColor/Hun_flag.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_HUN
 	Color=PLAYERCOLOR_HUN
@@ -2315,11 +2315,11 @@ BeginPlayer
 	Team=28
 	LeaderType=LEADER_SURYAVARMAN
 	LeaderName=Suryavarman II
-	CivDesc=Khmer Tribes
-	CivShortDesc=Khmer Tribes
+	CivDesc=Khmer Empire
+	CivShortDesc=Khmer
 	CivAdjective=Khmer
-	FlagDecal=Art/Interface/TeamColor/Khmer_tri.dds
-	WhiteFlag=1
+	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Khmer.dds
+	WhiteFlag=0
 	CivType=CIVILIZATION_KHMER
 	Color=PLAYERCOLOR_MIDDLE_BLUE
 	ArtStyle=ARTSTYLE_INDIA
@@ -2342,10 +2342,10 @@ BeginPlayer
 	LeaderType=LEADER_GERONIMO
 	LeaderName=TXT_KEY_LEADER_GERONIMO
 	CivDesc=Apache Tribes
-	CivShortDesc=Apache Tribes
+	CivShortDesc=Apache
 	CivAdjective=Apache
-	FlagDecal=Art/Interface/TeamColor/apache_def.dds
-	WhiteFlag=1
+	FlagDecal=Art/Interface/TeamColor/flag_apache.dds
+	WhiteFlag=0
 	CivType=CIVILIZATION_APACHE
 	Color=PLAYERCOLOR_NAVAJOWHITE_AND_FIREBRICK
 	ArtStyle=ARTSTYLE_NATIVE
@@ -2368,9 +2368,9 @@ BeginPlayer
 	LeaderType=LEADER_SEQUOYAH
 	LeaderName=TXT_KEY_LEADER_SEQUOYAH
 	CivDesc=Cherokee Tribes
-	CivShortDesc=Cherokee Tribes
+	CivShortDesc=Cherokee
 	CivAdjective=Cherokee
-	FlagDecal=Art/Interface/TeamColor/cherokee_def.dds
+	FlagDecal=Art/Interface/TeamColor/flag_cherokee.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_CHEROKEE
 	Color=PLAYERCOLOR_LIGHT_BROWN
@@ -2393,10 +2393,10 @@ BeginPlayer
 	Team=31
 	LeaderType=LEADER_ROBERT_THE_BRUCE
 	LeaderName=TXT_KEY_LEADER_ROBERT_THE_BRUCE
-	CivDesc=Celtic Tribes
-	CivShortDesc=Celtia Tribes
+	CivDesc=Celtic Empire
+	CivShortDesc=Celts
 	CivAdjective=Celtic
-	FlagDecal=Art/Interface/TeamColor/celts_tri.dds
+	FlagDecal=Art/Interface/TeamColor/celtia.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_CELT
 	Color=PLAYERCOLOR_LIGHT_GRAY
@@ -2419,11 +2419,11 @@ BeginPlayer
 	Team=32
 	LeaderType=LEADER_ZARA_YAQOB
 	LeaderName=Zara Yaqob
-	CivDesc=Amharic Tribes
-	CivShortDesc=Amhara
-	CivAdjective=Amharic
-	FlagDecal=Art/Interface/TeamColor/Ethiopia_tri.dds
-	WhiteFlag=1
+	CivDesc=Ethiopian Empire
+	CivShortDesc=Ethiopia
+	CivAdjective=Ethiopian
+	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Ethiopia.dds
+	WhiteFlag=0
 	CivType=CIVILIZATION_ETHIOPIA
 	Color=PLAYERCOLOR_MIDDLE_GREEN
 	ArtStyle=ARTSTYLE_AFRICAN
@@ -2445,11 +2445,11 @@ BeginPlayer
 	Team=33
 	LeaderType=LEADER_TAHARQA
 	LeaderName=Taharqa
-	CivDesc=Nubian Tribes
-	CivShortDesc=Nubia Tribes
+	CivDesc=Nubian Empire
+	CivShortDesc=Nubia
 	CivAdjective=Nubian
-	FlagDecal=Art/Interface/TeamColor/Nubia_tri.dds
-	WhiteFlag=1
+	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Nubia.dds
+	WhiteFlag=0
 	CivType=CIVILIZATION_NUBIA
 	Color=PLAYERCOLOR_NUBIA
 	ArtStyle=ARTSTYLE_EGYPT
@@ -2471,10 +2471,10 @@ BeginPlayer
 	Team=34
 	LeaderType=LEADER_WAHUNSENACAWH
 	LeaderName=TXT_KEY_LEADER_WAHUNSENACAWH
-	CivDesc=Algonquin Tribes
-	CivShortDesc=Algonquin Tribes Tribes
-	CivAdjective=Algonquin
-	FlagDecal=Art/Interface/TeamColor/algonquin_def.dds
+	CivDesc=Algonquian Tribes
+	CivShortDesc=Algonquian
+	CivAdjective=Algonquian
+	FlagDecal=Art/Interface/TeamColor/Flag_algonquin.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_ALGONQUIN
 	Color=PLAYERCOLOR_CRIMSON_AND_MOCCASIN
@@ -2497,10 +2497,10 @@ BeginPlayer
 	Team=35
 	LeaderType=LEADER_HIAWATHA
 	LeaderName=TXT_KEY_LEADER_HIAWATHA
-	CivDesc=Iroquois Tribes
-	CivShortDesc=Iroquois Tribes
+	CivDesc=Iroquois Confederation
+	CivShortDesc=Iroquois
 	CivAdjective=Iroquois
-	FlagDecal=Art/Interface/TeamColor/Iroquois_def.dds
+	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Iroquois.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_IROQUOIS
 	Color=PLAYERCOLOR_CHEROKEE
@@ -2524,9 +2524,9 @@ BeginPlayer
 	LeaderType=LEADER_SITTING_BULL
 	LeaderName=TXT_KEY_LEADER_SITTING_BULL
 	CivDesc=Sioux Tribes
-	CivShortDesc=Sioux Tribes
+	CivShortDesc=Sioux
 	CivAdjective=Sioux
-	FlagDecal=Art/Interface/TeamColor/Sioux_def.dds
+	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Sioux.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_SIOUX
 	Color=PLAYERCOLOR_BANTU
@@ -2654,11 +2654,11 @@ BeginPlayer
 	Team=41
 	LeaderType=LEADER_PACAL
 	LeaderName=Pacal
-	CivDesc=Maya Tribes
-	CivShortDesc=Maya Tribes
-	CivAdjective=Maya
-	FlagDecal=Art/Interface/TeamColor/Maya_tri.dds
-	WhiteFlag=1
+	CivDesc=Mayan Empire
+	CivShortDesc=Maya
+	CivAdjective=Mayan
+	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Maya.dds
+	WhiteFlag=0
 	CivType=CIVILIZATION_MAYA
 	Color=PLAYERCOLOR_MIDDLE_CYAN
 	ArtStyle=ARTSTYLE_MESOAMERICA
@@ -2680,10 +2680,10 @@ BeginPlayer
 	Team=42
 	LeaderType=LEADER_OCEANIAN
 	LeaderName=TXT_KEY_LEADER_OCEANIAN
-	CivDesc=Oceanian Tribes
-	CivShortDesc=Oceania Tribes
-	CivAdjective=Oceanian
-	FlagDecal=Art/Interface/TeamColor/Aborigines_def.dds
+	CivDesc=Aborigine Tribes
+	CivShortDesc=Aborigines
+	CivAdjective=Aborigine
+	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Aborigines.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_ABORIGINES
 	Color=PLAYERCOLOR_SEPIA
@@ -2706,10 +2706,10 @@ BeginPlayer
 	Team=43
 	LeaderType=LEADER_RANGATIRA
 	LeaderName=TXT_KEY_LEADER_RANGATIRA
-	CivDesc=Polynesian Tribes
-	CivShortDesc=Polynesia Tribes
-	CivAdjective=Polynesian
-	FlagDecal=Art/Interface/TeamColor/polynesia_def.dds
+	CivDesc=Melanesian Tribes
+	CivShortDesc=Melanesians
+	CivAdjective=Melanesian
+	FlagDecal=Art/Interface/TeamColor/flagdecal_polynesia.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_POLYNESIA
 	Color=PLAYERCOLOR_POLYNESIA
@@ -2732,11 +2732,11 @@ BeginPlayer
 	Team=44
 	LeaderType=LEADER_MASSINISSA
 	LeaderName=Massinissa
-	CivDesc=Berber Tribes
-	CivShortDesc=Berbers Tribes
+	CivDesc=Berber Empire
+	CivShortDesc=Berbers
 	CivAdjective=Berber
-	FlagDecal=Art/Interface/TeamColor/Berber_tri.dds
-	WhiteFlag=1
+	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Berber.dds
+	WhiteFlag=0
 	CivType=CIVILIZATION_BERBER
 	Color=PLAYERCOLOR_BERBER
 	ArtStyle=ARTSTYLE_MIDDLE_EAST
@@ -2759,9 +2759,9 @@ BeginPlayer
 	LeaderType=LEADER_PATAGONIAN_LONKO
 	LeaderName=TXT_KEY_LEADER_PATAGONIAN_LONKO
 	CivDesc=Patagonian Tribes
-	CivShortDesc=Patagonia Tribes
+	CivShortDesc=Patagonia
 	CivAdjective=Patagonian
-	FlagDecal=Art/Interface/TeamColor/patagonia_def.dds
+	FlagDecal=Art/Interface/TeamColor/flagdecal_patagonia.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_PATAGONIA
 	Color=PLAYERCOLOR_TUPI
@@ -2785,9 +2785,9 @@ BeginPlayer
 	LeaderType=LEADER_AGUEYBANA
 	LeaderName=Agueybana
 	CivDesc=Arawak Tribes
-	CivShortDesc=Arawaks Tribes
+	CivShortDesc=Arawak
 	CivAdjective=Arawak
-	FlagDecal=Art/Interface/TeamColor/Arawak_def.dds
+	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Arawak.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_ARAWAK
 	Color=PLAYERCOLOR_PATAGONIA
@@ -2812,9 +2812,9 @@ BeginPlayer
 	LeaderType=LEADER_CUNHAMBEBE
 	LeaderName=Cunhambebe
 	CivDesc=Tupi Tribes
-	CivShortDesc=Tupi Tribes
+	CivShortDesc=Tupi
 	CivAdjective=Tupi
-	FlagDecal=Art/Interface/TeamColor/Tupi_def.dds
+	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Tupi.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_TUPI
 	Color=PLAYERCOLOR_TARTAR
@@ -2941,10 +2941,10 @@ BeginPlayer
 	Team=52
 	LeaderType=LEADER_DAVID
 	LeaderName=David
-	CivDesc=Israeli Tribes
-	CivShortDesc=Israel Tribes
-	CivAdjective=Israeli
-	FlagDecal=Art/Interface/TeamColor/Israel_tri.dds
+	CivDesc=Judean Kingdom
+	CivShortDesc=Judea
+	CivAdjective=Judean
+	FlagDecal=Art/Interface/TeamColor/flagdecal_Israel.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_ISRAEL
 	Color=PLAYERCOLOR_BLUE
@@ -2967,10 +2967,10 @@ BeginPlayer
 	Team=53
 	LeaderType=LEADER_KUCHUM
 	LeaderName=Kuchum Khan
-	CivDesc=Siberian Tribes
-	CivShortDesc=Siberia Tribes
+	CivDesc=Siberian Khanate
+	CivShortDesc=Siberia
 	CivAdjective=Siberian
-	FlagDecal=Art/Interface/TeamColor/Siberian_def.dds
+	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Siberian.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_SIBERIA
 	Color=PLAYERCOLOR_CYAN_AND_GRAY
@@ -2993,10 +2993,10 @@ BeginPlayer
 	Team=54
 	LeaderType=LEADER_TIGRANES
 	LeaderName=Tigranes
-	CivDesc=Nairi Tribes
-	CivShortDesc=Nairi
-	CivAdjective=Nairi
-	FlagDecal=Art/Interface/TeamColor/Armenia_tri.dds
+	CivDesc=Armenian Empire
+	CivShortDesc=Armenia
+	CivAdjective=Armenian
+	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Armenia.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_ARMENIA
 	Color=PLAYERCOLOR_ARMENIAN_RED
@@ -3019,10 +3019,10 @@ BeginPlayer
 	Team=55
 	LeaderType=LEADER_KULOTHUNGA_CHOLA_I
 	LeaderName=TXT_KEY_LEADER_KULOTHUNGA_CHOLA_I
-	CivDesc=Dravidian Tribes
-	CivShortDesc=Dravida Tribes
+	CivDesc=Dravidian Empire
+	CivShortDesc=Dravida
 	CivAdjective=Dravidian
-	FlagDecal=Art/Interface/TeamColor/dravidia_tri.dds
+	FlagDecal=Art/Interface/TeamColor/dravidia.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_DRAVIDIAN
 	Color=PLAYERCOLOR_DARK_LEMON
@@ -3046,10 +3046,10 @@ BeginPlayer
 	Team=56
 	LeaderType=LEADER_HAYAM_WURUK
 	LeaderName=TXT_KEY_LEADER_HAYAM_WURUK
-	CivDesc=Austronesian Tribes
-	CivShortDesc=Austronesia Tribes
-	CivAdjective=Austronesian
-	FlagDecal=Art/Interface/TeamColor/austronesia_tri.dds
+	CivDesc=TXT_KEY_CIV_AUSTRONESIA_DESC
+	CivShortDesc=TXT_KEY_CIV_AUSTRONESIA_SHORT_DESC
+	CivAdjective=TXT_KEY_CIV_AUSTRONESIA_ADJECTIVE
+	FlagDecal=Art/Interface/TeamColor/austronesia_flag.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_AUSTRONESIA
 	Color=PLAYERCOLOR_AUSTRONESIA
@@ -3072,10 +3072,10 @@ BeginPlayer
 	Team=57
 	LeaderType=LEADER_DEMETRIUS_OF_BACTRIA
 	LeaderName=TXT_KEY_LEADER_DEMETRIUS_OF_BACTRIA
-	CivDesc=Tocharian Tribes
-	CivShortDesc=Tocharians
-	CivAdjective=Tocharian
-	FlagDecal=Art/Interface/TeamColor/transoxiana_tri.dds
+	CivDesc=TXT_KEY_CIV_TRANSOXIANA_DESC
+	CivShortDesc=TXT_KEY_CIV_SHORT_TRANSOXIANA_DESC
+	CivAdjective=TXT_KEY_CIV_TRANSOXIANA_ADJECTIVE
+	FlagDecal=Art/Interface/TeamColor/transoxiana.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_TRANSOXIANA
 	Color=PLAYERCOLOR_TRANSOXIANA
@@ -3098,15 +3098,15 @@ BeginPlayer
 	Team=58
 	LeaderType=LEADER_JAMES_K_POLK
 	LeaderName=TXT_KEY_LEADER_JAMES_K_POLK
-	CivDesc=Vinlander Settlers
-	CivShortDesc=Vinlanders
-	CivAdjective=Vinlander
+	CivDesc=Atlantian Empire
+	CivShortDesc=Atlantians
+	CivAdjective=Atlantian
 	FlagDecal=Art/Interface/TeamColor/America_tri.dds
 	WhiteFlag=1
 	CivType=CIVILIZATION_AMERICA
 	Color=PLAYERCOLOR_CYAN
 	ArtStyle=ARTSTYLE_EUROPEAN
-	PlayableCiv=0
+	PlayableCiv=1
 	MinorNationStatus=0
 	StartingGold=0
 	StartingEra=ERA_ANCIENT
@@ -4186,7 +4186,6 @@ BeginPlot
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
 		PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
@@ -4668,7 +4667,6 @@ BeginPlot
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
 		PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
@@ -8382,28 +8380,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=39, (Ewuare)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=39, (Ewuare)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -9058,7 +9042,6 @@ BeginPlot
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
 		PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
@@ -9695,7 +9678,6 @@ BeginPlot
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
 		PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
@@ -11245,28 +11227,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=39, (Ewuare)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=39, (Ewuare)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -12447,12 +12415,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=39, (Ewuare)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -13137,7 +13100,6 @@ BeginPlot
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
 		PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
@@ -13996,28 +13958,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=39, (Ewuare)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=39, (Ewuare)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -14085,14 +14033,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=39, (Ewuare)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -15127,12 +15068,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=39, (Ewuare)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -15803,12 +15739,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=39, (Ewuare)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -16930,28 +16861,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=39, (Ewuare)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=39, (Ewuare)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -18076,12 +17993,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=51, (Mvemba a Nzinga)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -18843,14 +18755,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=39, (Ewuare)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -19031,7 +18936,6 @@ BeginPlot
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
 		PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
@@ -19201,10 +19105,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -19500,28 +19402,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=39, (Ewuare)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=39, (Ewuare)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -20658,28 +20546,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=51, (Mvemba a Nzinga)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=51, (Mvemba a Nzinga)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -20748,12 +20622,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=51, (Mvemba a Nzinga)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		PromotionType=PROMOTION_AID_ASSAULT2
 		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
@@ -20762,12 +20631,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=51, (Mvemba a Nzinga)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		PromotionType=PROMOTION_AID_ASSAULT2
 		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
@@ -20776,12 +20640,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=51, (Mvemba a Nzinga)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		PromotionType=PROMOTION_AID_ASSAULT2
 		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
@@ -22165,8 +22024,7 @@ BeginPlot
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -22467,10 +22325,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -22722,12 +22578,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=51, (Mvemba a Nzinga)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		PromotionType=PROMOTION_AID_ASSAULT2
 		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
@@ -22736,12 +22587,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=51, (Mvemba a Nzinga)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		PromotionType=PROMOTION_AID_ASSAULT2
 		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
@@ -22750,12 +22596,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=51, (Mvemba a Nzinga)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		PromotionType=PROMOTION_AID_ASSAULT2
 		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
@@ -23134,10 +22975,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -23701,8 +23540,7 @@ BeginPlot
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -23842,10 +23680,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -23905,10 +23741,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -24072,28 +23906,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=51, (Mvemba a Nzinga)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=51, (Mvemba a Nzinga)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -24813,28 +24633,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=51, (Mvemba a Nzinga)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=51, (Mvemba a Nzinga)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -24928,9 +24734,6 @@ BeginPlot
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_AID_ASSAULT2
-		PromotionType=PROMOTION_AID_MORALE
 		PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
@@ -24939,9 +24742,6 @@ BeginPlot
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_AID_ASSAULT2
-		PromotionType=PROMOTION_AID_MORALE
 		PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
@@ -24950,9 +24750,6 @@ BeginPlot
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_AID_ASSAULT2
-		PromotionType=PROMOTION_AID_MORALE
 		PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
@@ -25620,12 +25417,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=51, (Mvemba a Nzinga)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		PromotionType=PROMOTION_AID_ASSAULT2
 		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
@@ -25634,12 +25426,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=51, (Mvemba a Nzinga)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		PromotionType=PROMOTION_AID_ASSAULT2
 		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
@@ -25648,12 +25435,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=51, (Mvemba a Nzinga)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		PromotionType=PROMOTION_AID_ASSAULT2
 		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
@@ -26116,10 +25898,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -26866,28 +26646,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=50, (Muteesa I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=50, (Muteesa I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -27035,28 +26801,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=51, (Mvemba a Nzinga)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=51, (Mvemba a Nzinga)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -27398,10 +27150,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -27895,10 +27645,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -28219,28 +27967,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=50, (Muteesa I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=50, (Muteesa I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -28296,28 +28030,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=50, (Muteesa I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=50, (Muteesa I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -28521,8 +28241,7 @@ BeginPlot
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -28626,10 +28345,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -29017,28 +28734,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=50, (Muteesa I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=50, (Muteesa I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -29936,10 +29639,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -31012,8 +30713,7 @@ BeginPlot
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -31956,12 +31656,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=50, (Muteesa I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -32524,12 +32219,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=50, (Muteesa I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -32925,10 +32615,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -33749,12 +33437,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=50, (Muteesa I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -33781,12 +33464,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=50, (Muteesa I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -33939,8 +33617,7 @@ BeginPlot
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -35554,8 +35231,7 @@ BeginPlot
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -35791,10 +35467,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -37480,10 +37154,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -37792,10 +37464,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -37966,10 +37636,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -38943,8 +38611,7 @@ BeginPlot
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -39033,10 +38700,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -39599,10 +39264,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -40634,10 +40297,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=53, (Kuchum Khan)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -40741,10 +40401,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -40763,10 +40421,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -41300,10 +40956,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=53, (Kuchum Khan)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -42734,10 +42387,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -43045,10 +42696,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=53, (Kuchum Khan)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -45163,10 +44811,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -46080,10 +45726,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=53, (Kuchum Khan)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -48619,10 +48262,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -49102,10 +48743,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -49325,10 +48964,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=53, (Kuchum Khan)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -49746,10 +49382,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -50763,10 +50397,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -50809,10 +50441,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -52365,12 +51995,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -52693,10 +52318,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=53, (Kuchum Khan)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -52848,8 +52470,7 @@ BeginPlot
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -53717,10 +53338,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -54248,12 +53867,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -54879,12 +54493,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -55396,8 +55005,7 @@ BeginPlot
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -55896,10 +55504,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=53, (Kuchum Khan)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -57145,10 +56750,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -57342,8 +56945,7 @@ BeginPlot
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -57460,12 +57062,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -59565,10 +59162,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=53, (Kuchum Khan)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -59831,12 +59425,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -61259,10 +60848,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -61601,12 +61188,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -61639,12 +61221,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -63290,10 +62867,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=42, (Gambu Ganuurru)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -63482,12 +63056,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -63784,10 +63353,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=53, (Kuchum Khan)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -64004,10 +63570,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=42, (Gambu Ganuurru)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -64079,12 +63642,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -64356,10 +63914,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -64735,12 +64291,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -65200,10 +64751,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=42, (Gambu Ganuurru)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -65876,12 +65424,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -66898,10 +66441,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=42, (Gambu Ganuurru)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -66947,10 +66487,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=42, (Gambu Ganuurru)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -67312,10 +66849,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -68115,12 +67650,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -68390,10 +67920,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -69150,10 +68678,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=42, (Gambu Ganuurru)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -69231,12 +68756,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -69673,10 +69193,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=42, (Gambu Ganuurru)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -70019,24 +69536,16 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -70379,12 +69888,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -70412,12 +69916,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -71441,10 +70940,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=42, (Gambu Ganuurru)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -71781,10 +71277,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -71940,10 +71434,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=42, (Gambu Ganuurru)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -72449,10 +71940,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=42, (Gambu Ganuurru)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -72548,10 +72036,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=42, (Gambu Ganuurru)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -72651,12 +72136,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -72682,12 +72162,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -73951,10 +73426,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -75238,12 +74711,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -75511,10 +74979,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -76224,12 +75690,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -76853,12 +76314,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -77313,12 +76769,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -77725,12 +77176,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -79821,12 +79267,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -79930,12 +79371,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -79992,12 +79428,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -80779,24 +80210,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=37, (Koyah)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=37, (Koyah)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -81029,12 +80450,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -81402,24 +80818,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=37, (Koyah)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=37, (Koyah)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -82167,12 +81573,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -82828,12 +82229,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -84043,24 +83439,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=37, (Koyah)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=37, (Koyah)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -84753,12 +84139,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -85574,10 +84955,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=37, (Koyah)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -86788,12 +86166,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=43, (Kamehameha I)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -87074,10 +86447,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=37, (Koyah)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -88632,24 +88002,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=38, (Ekeuhnick)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=38, (Ekeuhnick)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -89609,10 +88969,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=37, (Koyah)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -89656,10 +89013,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=37, (Koyah)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -90631,12 +89985,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=29, (Geronimo)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -90669,12 +90018,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=29, (Geronimo)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -91343,24 +90687,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=38, (Ekeuhnick)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=38, (Ekeuhnick)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -91717,12 +91051,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=29, (Geronimo)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -92380,12 +91709,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=29, (Geronimo)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -92455,10 +91779,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=38, (Ekeuhnick)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -92900,28 +92221,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=29, (Geronimo)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=29, (Geronimo)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -93451,12 +92758,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=29, (Geronimo)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -93530,12 +92832,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=29, (Geronimo)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -94014,12 +93311,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=29, (Geronimo)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -94241,24 +93533,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=38, (Ekeuhnick)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=38, (Ekeuhnick)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -94588,10 +93870,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=46, (Agueybana)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -95229,12 +94508,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=29, (Geronimo)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -95277,28 +94551,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=29, (Geronimo)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=29, (Geronimo)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -95417,10 +94677,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=36, (Sitting Bull)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -95475,24 +94732,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=38, (Ekeuhnick)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=38, (Ekeuhnick)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -96009,24 +95256,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=36, (Sitting Bull)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=36, (Sitting Bull)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -96598,28 +95835,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=29, (Geronimo)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=29, (Geronimo)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -97085,10 +96308,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=46, (Agueybana)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -97377,24 +96597,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=38, (Ekeuhnick)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=38, (Ekeuhnick)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -97791,28 +97001,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=29, (Geronimo)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=29, (Geronimo)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -97942,24 +97138,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=36, (Sitting Bull)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=36, (Sitting Bull)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -97997,24 +97183,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=36, (Sitting Bull)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=36, (Sitting Bull)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -99087,24 +98263,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=36, (Sitting Bull)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=36, (Sitting Bull)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -99143,24 +98309,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=36, (Sitting Bull)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=36, (Sitting Bull)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -99687,28 +98843,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=29, (Geronimo)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=29, (Geronimo)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -99882,24 +99024,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=38, (Ekeuhnick)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=38, (Ekeuhnick)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -100219,10 +99351,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=46, (Agueybana)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -100894,10 +100023,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=30, (Sequoyah)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -101007,24 +100133,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=36, (Sitting Bull)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=36, (Sitting Bull)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -101076,24 +100192,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=34, (Pontiac)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=34, (Pontiac)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -102182,24 +101288,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=30, (Sequoyah)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=30, (Sequoyah)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -102253,24 +101349,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=30, (Sequoyah)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=30, (Sequoyah)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -103770,10 +102856,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -103794,12 +102878,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=48, (Raoni Metuktire)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -103852,10 +102931,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=46, (Agueybana)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -104019,24 +103095,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=30, (Sequoyah)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=30, (Sequoyah)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -104104,24 +103170,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=34, (Pontiac)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=34, (Pontiac)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -104169,24 +103225,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=34, (Pontiac)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=34, (Pontiac)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -104470,12 +103516,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=48, (Raoni Metuktire)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -104686,24 +103727,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=30, (Sequoyah)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=30, (Sequoyah)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -105156,10 +104187,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=46, (Agueybana)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		PromotionType=PROMOTION_DETRIMENT_FEAR
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
@@ -105283,10 +104311,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=30, (Sequoyah)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -105390,24 +104415,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=35, (Hiawatha)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=35, (Hiawatha)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -105809,11 +104824,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_DETRIMENT_FEAR
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -106456,10 +105468,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -106572,10 +105582,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=46, (Agueybana)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -106736,24 +105743,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=34, (Pontiac)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=34, (Pontiac)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -106839,10 +105836,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=38, (Ekeuhnick)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -106956,28 +105950,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=45, (Lautaro)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=45, (Lautaro)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -107014,24 +105994,16 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -107227,28 +106199,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=48, (Raoni Metuktire)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=48, (Raoni Metuktire)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -107312,10 +106270,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=46, (Agueybana)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -107473,10 +106428,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=30, (Sequoyah)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -107501,10 +106453,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=35, (Hiawatha)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -107540,24 +106489,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=35, (Hiawatha)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=35, (Hiawatha)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -107829,12 +106768,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=45, (Lautaro)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -107864,12 +106798,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=45, (Lautaro)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		PromotionType=PROMOTION_DETRIMENT_FEAR
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
@@ -107883,11 +106812,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_DETRIMENT_FEAR
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -108565,10 +107491,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -108596,10 +107520,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -108825,10 +107747,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=46, (Agueybana)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -108961,24 +107880,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=35, (Hiawatha)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=35, (Hiawatha)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -109189,28 +108098,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=45, (Lautaro)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=45, (Lautaro)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -109270,28 +108165,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=45, (Lautaro)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=45, (Lautaro)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -109469,28 +108350,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=48, (Raoni Metuktire)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=48, (Raoni Metuktire)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -109579,24 +108446,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=46, (Agueybana)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=46, (Agueybana)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -109776,10 +108633,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=35, (Hiawatha)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -109845,24 +108699,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=34, (Pontiac)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=34, (Pontiac)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -109921,24 +108765,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=40, (Henri Membertou)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=40, (Henri Membertou)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -110136,12 +108970,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=45, (Lautaro)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -110204,24 +109033,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=49, (Sepe Tiaraju)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=49, (Sepe Tiaraju)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -110258,10 +109077,8 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=77, (Barbarian)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_BARBARIAN
+PromotionType=PROMOTION_BARBARIAN
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -110281,12 +109098,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=48, (Raoni Metuktire)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -110449,10 +109261,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=46, (Agueybana)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -111076,28 +109885,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=48, (Raoni Metuktire)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=48, (Raoni Metuktire)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -111322,24 +110117,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=35, (Hiawatha)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=35, (Hiawatha)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -111483,10 +110268,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=38, (Ekeuhnick)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -112359,28 +111141,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=48, (Raoni Metuktire)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=48, (Raoni Metuktire)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -112426,28 +111194,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=48, (Raoni Metuktire)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=48, (Raoni Metuktire)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -112568,10 +111322,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=46, (Agueybana)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -113016,10 +111767,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=49, (Sepe Tiaraju)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -113062,24 +111810,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=49, (Sepe Tiaraju)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=49, (Sepe Tiaraju)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -113236,24 +111974,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=46, (Agueybana)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=46, (Agueybana)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -113478,24 +112206,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=40, (Henri Membertou)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=40, (Henri Membertou)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -113547,24 +112265,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=40, (Henri Membertou)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=40, (Henri Membertou)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -113723,12 +112431,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=45, (Lautaro)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -114570,28 +113273,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=48, (Raoni Metuktire)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=48, (Raoni Metuktire)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_CITY_GARRISON1
-		PromotionType=PROMOTION_DRILL1
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -115121,24 +113810,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=49, (Sepe Tiaraju)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=49, (Sepe Tiaraju)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -115193,24 +113872,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=47, (Cunhambebe)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=47, (Cunhambebe)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -115747,10 +114416,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=49, (Sepe Tiaraju)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -115932,10 +114598,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=46, (Agueybana)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -116114,10 +114777,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=40, (Henri Membertou)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -116951,10 +115611,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=49, (Sepe Tiaraju)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_FORTIFICATION
 	EndUnit
@@ -117292,24 +115949,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=40, (Henri Membertou)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=40, (Henri Membertou)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -117617,24 +116264,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=47, (Cunhambebe)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=47, (Cunhambebe)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -117675,10 +116312,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=47, (Cunhambebe)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -118163,24 +116797,14 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=47, (Cunhambebe)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=47, (Cunhambebe)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
-		PromotionType=PROMOTION_AID_ASSAULT1
-		PromotionType=PROMOTION_AID_MORALE
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -120304,10 +118928,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=47, (Cunhambebe)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -120627,10 +119248,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=38, (Ekeuhnick)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -122101,10 +120719,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=38, (Ekeuhnick)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
@@ -122591,10 +121206,7 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BARBARIAN_FORT, UnitOwner=38, (Ekeuhnick)
 		Level=1, Experience=0
-		PromotionType=PROMOTION_MEDIC1
 		PromotionType=PROMOTION_SENTRY
-		PromotionType=PROMOTION_LEADERSHIP
-		PromotionType=PROMOTION_IRREGULAR_1
 		FacingDirection=4
 		UnitAIType=UNITAI_CITY_DEFENSE
 	EndUnit
