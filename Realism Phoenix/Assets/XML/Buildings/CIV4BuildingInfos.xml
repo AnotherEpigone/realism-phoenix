@@ -1114,7 +1114,7 @@
 			<MaxStartEra>NONE</MaxStartEra>
 			<ObsoleteBuildingClass>NONE</ObsoleteBuildingClass>
 			<ObsoleteTech>NONE</ObsoleteTech>
-			<DiscontinueTech>TECH_CRITICAL_THOUGHT</DiscontinueTech>
+			<DiscontinueTech>NONE</DiscontinueTech>
 			<ProductionTraits/>
 			<HappinessTraits/>
 			<NoBonus>NONE</NoBonus>
@@ -58637,7 +58637,7 @@
 			<MaxStartEra>NONE</MaxStartEra>
 			<ObsoleteBuildingClass>NONE</ObsoleteBuildingClass>
 			<ObsoleteTech>NONE</ObsoleteTech>
-			<DiscontinueTech>TECH_CRITICAL_THOUGHT</DiscontinueTech>
+			<DiscontinueTech>NONE</DiscontinueTech>
 			<ProductionTraits/>
 			<HappinessTraits/>
 			<NoBonus>NONE</NoBonus>
@@ -59511,7 +59511,7 @@
 			<MaxStartEra>NONE</MaxStartEra>
 			<ObsoleteBuildingClass>NONE</ObsoleteBuildingClass>
 			<ObsoleteTech>NONE</ObsoleteTech>
-			<DiscontinueTech>TECH_CRITICAL_THOUGHT</DiscontinueTech>
+			<DiscontinueTech>NONE</DiscontinueTech>
 			<ProductionTraits/>
 			<HappinessTraits/>
 			<NoBonus>NONE</NoBonus>
@@ -60389,7 +60389,7 @@
 			<MaxStartEra>NONE</MaxStartEra>
 			<ObsoleteBuildingClass>NONE</ObsoleteBuildingClass>
 			<ObsoleteTech>NONE</ObsoleteTech>
-			<DiscontinueTech>TECH_CRITICAL_THOUGHT</DiscontinueTech>
+			<DiscontinueTech>NONE</DiscontinueTech>
 			<ProductionTraits/>
 			<HappinessTraits/>
 			<NoBonus>NONE</NoBonus>
@@ -60460,7 +60460,7 @@
 			<iGlobalWarWearinessModifier>0</iGlobalWarWearinessModifier>
 			<iEnemyWarWearinessModifier>0</iEnemyWarWearinessModifier>
 			<iHealRateChange>0</iHealRateChange>
-			<iSeparatism>0</iSeparatism>
+			<iSeparatism>-5</iSeparatism>
 			<iGlobalSeparatism>0</iGlobalSeparatism>
 			<iHealth>0</iHealth>
 			<iAreaHealth>0</iAreaHealth>
@@ -60470,7 +60470,7 @@
 			<iGlobalHappiness>0</iGlobalHappiness>
 			<iStateReligionHappiness>0</iStateReligionHappiness>
 			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
-			<iMilitaryProductionModifier>0</iMilitaryProductionModifier>
+			<iMilitaryProductionModifier>10</iMilitaryProductionModifier>
 			<iSpaceProductionModifier>0</iSpaceProductionModifier>
 			<iGlobalSpaceProductionModifier>0</iGlobalSpaceProductionModifier>
 			<iTradeRoutes>0</iTradeRoutes>
@@ -60506,7 +60506,7 @@
 			</CommerceChangeDoubleTimes>
 			<CommerceModifiers>
 				<iCommerce>0</iCommerce>
-				<iCommerce>10</iCommerce>
+				<iCommerce>5</iCommerce>
 			</CommerceModifiers>
 			<GlobalCommerceModifiers/>
 			<AllSpecialistCommerces/>
