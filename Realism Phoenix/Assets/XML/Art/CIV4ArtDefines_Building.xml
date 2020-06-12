@@ -8,6 +8,46 @@
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<BuildingArtInfos>
 		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_PROT_MEGACHURCH</Type>
+			<LSystem>LSYSTEM_2x3</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>0.7</fScale>
+			<fInterfaceScale>0.8</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/stadium_modern/veterans04.nif</NIF>
+			<KFM/>
+			<Button>Art/Interface/Buttons/Buildings/protestant_megachurch.dds</Button>
+		</BuildingArtInfo>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_PROT_CATHEDRAL</Type>
+			<LSystem>LSYSTEM_CHRISTIAN_CATHEDRAL</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>1.50</fScale>
+			<fInterfaceScale>0.65</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/Kathedrale/kathedrale.nif</NIF>
+			<KFM/>
+			<Button>Art/Interface/Buttons/Buildings/protestant_cathedral.dds</Button>
+		</BuildingArtInfo>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_BIBLE_COLLEGE</Type>
+			<LSystem>LSYSTEM_CHRISTIAN_MONASTERY</LSystem>
+			<bAnimated>1</bAnimated>
+			<fScale>1.05</fScale>
+			<fInterfaceScale>1.1</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/Monastery/Christian/christian monastery.nif</NIF>
+			<KFM/>
+			<Button>Art/Interface/Buttons/Buildings/protestant_biblecollege.dds</Button>
+		</BuildingArtInfo>
+		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_PROTESTANT_CHAPEL</Type>
+			<LSystem>LSYSTEM_CHRISTIAN_TEMPLE</LSystem>
+			<bAnimated>1</bAnimated>
+			<fScale>0.7</fScale>
+			<fInterfaceScale>0.85</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/Cathedrals/christian cathedral.nif</NIF>
+			<KFM/>
+			<Button>Art/Interface/Buttons/Buildings/protestant_chapel.dds</Button>
+		</BuildingArtInfo>
+		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_SOCIETYOFJESUS</Type>
 			<LSystem>LSYSTEM_GREAT_TEMPLE_CHRISTIAN</LSystem>
 			<bAnimated>0</bAnimated>

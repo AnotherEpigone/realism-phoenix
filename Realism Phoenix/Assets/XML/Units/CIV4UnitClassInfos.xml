@@ -24,7 +24,7 @@
 			<Description>TXT_KEY_UNIT_JESUIT</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>-1</iMaxTeamInstances>
-			<iMaxPlayerInstances>6</iMaxPlayerInstances>
+			<iMaxPlayerInstances>3</iMaxPlayerInstances>
 			<iInstanceCostModifier>10</iInstanceCostModifier>
 			<iRoleCostModifier>0</iRoleCostModifier>
 			<DefaultUnit>UNIT_JESUIT</DefaultUnit>

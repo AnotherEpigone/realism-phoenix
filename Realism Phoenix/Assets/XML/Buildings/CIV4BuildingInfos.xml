@@ -239,7 +239,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_PROT_CHAPEL_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_BUILDING_CHRISTIAN_TEMPLE_STRATEGY</Strategy>
 			<Advisor>ADVISOR_RELIGION</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_CHRISTIAN_TEMPLE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_PROTESTANT_CHAPEL</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<PrereqAndTechs/>
 			<PrereqAndCivics/>
@@ -440,7 +440,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_COMMUNITIES_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_BUILDING_COMMUNITIES_STRATEGY</Strategy>
 			<Advisor>ADVISOR_RELIGION</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_CHRISTIAN_MONASTERY</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_BIBLE_COLLEGE</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<PrereqAndTechs/>
 			<PrereqAndCivics>
@@ -650,7 +650,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_MEGACHURCH_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_BUILDING_CHRISTIAN_CATHEDRAL_STRATEGY</Strategy>
 			<Advisor>ADVISOR_RELIGION</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_CHRISTIAN_CATHEDRAL</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_PROT_MEGACHURCH</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<PrereqAndTechs/>
 			<PrereqAndCivics/>
@@ -862,7 +862,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_CHRISTIAN_CATHEDRAL_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_BUILDING_CHRISTIAN_CATHEDRAL_STRATEGY</Strategy>
 			<Advisor>ADVISOR_RELIGION</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_CHRISTIAN_CATHEDRAL</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_PROT_CATHEDRAL</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<PrereqAndTechs/>
 			<PrereqAndCivics/>
@@ -1087,7 +1087,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_CHRISTIAN_MONASTERY_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_BUILDING_CHRISTIAN_MONASTERY_STRATEGY</Strategy>
 			<Advisor>ADVISOR_RELIGION</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_CHRISTIAN_MONASTERY</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_BIBLE_COLLEGE</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<PrereqAndTechs/>
 			<PrereqAndCivics/>
