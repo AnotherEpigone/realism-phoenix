@@ -125,7 +125,9 @@
 			<OrPreReqs>
 				<PrereqTech>TECH_INDIVIDUALISM</PrereqTech>
 			</OrPreReqs>
-			<AndPreReqs/>
+			<AndPreReqs>
+				<PrereqTech>TECH_ABSOLUTISM</PrereqTech>
+			</AndPreReqs>
 			<Quote>TXT_KEY_TECH_COUNTER_REFORMATION_QUOTE</Quote>
 			<Sound>AS2D_TECH_DIVINE_RIGHT</Sound>
 			<SoundMP>AS2D_TECH_MP_DIVINE_RIGHT</SoundMP>
@@ -186,9 +188,12 @@
 				</Flavor>
 			</Flavors>
 			<OrPreReqs>
-				<PrereqTech>TECH_ABSOLUTISM</PrereqTech>
+				<PrereqTech>TECH_SOCIAL_CONTRACT</PrereqTech>
 			</OrPreReqs>
-			<AndPreReqs/>
+			<AndPreReqs>
+				<PrereqTech>TECH_PRINTING_PRESS</PrereqTech>
+				<PrereqTech>TECH_GREAT_SCHISM</PrereqTech>
+			</AndPreReqs>
 			<Quote>TXT_KEY_TECH_INDIVIDUALISM_QUOTE</Quote>
 			<Sound>AS2D_TECH_DIVINE_RIGHT</Sound>
 			<SoundMP>AS2D_TECH_MP_DIVINE_RIGHT</SoundMP>
