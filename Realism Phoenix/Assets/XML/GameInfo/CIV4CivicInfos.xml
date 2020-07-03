@@ -2790,7 +2790,7 @@
 			<iCorporationMaintenanceModifier>0</iCorporationMaintenanceModifier>
 			<iExtraHealth>1</iExtraHealth>
 			<iExtraHappiness>2</iExtraHappiness>
-			<iGlobalEpidemicModifier>0</iGlobalEpidemicModifier>
+			<iGlobalEpidemicModifier>-2</iGlobalEpidemicModifier>
 			<iFreeExperience>0</iFreeExperience>
 			<iWonderCostModifier>0</iWonderCostModifier>
 			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
@@ -2823,7 +2823,7 @@
 			<bNoForeignTrade>0</bNoForeignTrade>
 			<bNoCorporations>0</bNoCorporations>
 			<bNoForeignCorporations>0</bNoForeignCorporations>
-			<iCivicPercentAnger>400</iCivicPercentAnger>
+			<iCivicPercentAnger>0</iCivicPercentAnger>
 			<bStateReligion>0</bStateReligion>
 			<bNoNonStateReligionSpread>0</bNoNonStateReligionSpread>
 			<iStateReligionHappiness>0</iStateReligionHappiness>
@@ -2953,6 +2953,158 @@
 				<Flavor>
 				  <FlavorType>FLAVOR_MILITARY</FlavorType>
 				  <iFlavor>-2</iFlavor>
+				</Flavor>
+			</Flavors>
+		</CivicInfo>
+		<CivicInfo>
+			<CivicOptionType>CIVICOPTION_LABOR</CivicOptionType>
+			<Type>CIVIC_SUBSIDIARITY</Type>
+			<Description>TXT_KEY_CIVIC_SUBSIDIARITY</Description>
+			<Civilopedia>TXT_KEY_CIVIC_SUBSIDIARITY_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_CIVIC_SUBSIDIARITY_STRATEGY</Strategy>
+			<Button>Art/Interface/Buttons/Civics/subsidiarity.dds</Button>
+			<TechPrereq>TECH_LABOR_MOVEMENT</TechPrereq>
+			<iAnarchyLength>1</iAnarchyLength>
+			<Upkeep>UPKEEP_LOW</Upkeep>
+			<iAIWeight>0</iAIWeight>
+			<iGreatPeopleRateModifier>50</iGreatPeopleRateModifier>
+			<iGreatGeneralRateModifier>0</iGreatGeneralRateModifier>
+			<iDomesticGreatGeneralRateModifier>50</iDomesticGreatGeneralRateModifier>
+			<iStateReligionGreatPeopleRateModifier>0</iStateReligionGreatPeopleRateModifier>
+			<iDistanceMaintenanceModifier>-25</iDistanceMaintenanceModifier>
+			<iNumCitiesMaintenanceModifier>-25</iNumCitiesMaintenanceModifier>
+			<iCorporationMaintenanceModifier>0</iCorporationMaintenanceModifier>
+			<iExtraHealth>2</iExtraHealth>
+			<iExtraHappiness>0</iExtraHappiness>
+			<iFreeExperience>0</iFreeExperience>
+			<iWonderCostModifier>0</iWonderCostModifier>
+			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
+			<iImprovementUpgradeRateModifier>0</iImprovementUpgradeRateModifier>
+			<iMilitaryProductionModifier>-10</iMilitaryProductionModifier>
+			<iBaseFreeUnits>0</iBaseFreeUnits>
+			<iBaseFreeMilitaryUnits>0</iBaseFreeMilitaryUnits>
+			<iFreeUnitsPopulationPercent>0</iFreeUnitsPopulationPercent>
+			<iFreeMilitaryUnitsPopulationPercent>0</iFreeMilitaryUnitsPopulationPercent>
+			<iGoldPerUnit>0</iGoldPerUnit>
+			<iGoldPerMilitaryUnit>0</iGoldPerMilitaryUnit>
+			<iHappyPerMilitaryUnit>0</iHappyPerMilitaryUnit>
+			<bMilitaryFoodProduction>0</bMilitaryFoodProduction>
+			<iMaxConscript>0</iMaxConscript>
+			<iUnhealthyPopulationModifier>0</iUnhealthyPopulationModifier>
+			<iExpInBorderModifier>0</iExpInBorderModifier>
+			<iInsideCityCongestionThresholdChange>0</iInsideCityCongestionThresholdChange>
+			<iOutsideCityCongestionThresholdChange>0</iOutsideCityCongestionThresholdChange>
+			<!--
+			<iSpySuccessModifier>-5</iSpySuccessModifier>
+			<iSpyEnemySuccessModifier>0</iSpyEnemySuccessModifier>
+			<iSpySuicideModifier>0</iSpySuicideModifier>
+			<iSpyMissionCostModifier>0</iSpyMissionCostModifier>
+			-->
+			<bBuildingOnlyHealthy>0</bBuildingOnlyHealthy>
+			<iLargestCityHappiness>0</iLargestCityHappiness>
+			<iWarWearinessModifier>25</iWarWearinessModifier>
+			<iFreeSpecialist>0</iFreeSpecialist>
+			<iTradeRoutes>0</iTradeRoutes>
+			<bNoForeignTrade>0</bNoForeignTrade>
+			<bNoCorporations>0</bNoCorporations>
+			<bNoForeignCorporations>0</bNoForeignCorporations>
+			<iCivicPercentAnger>0</iCivicPercentAnger>
+			<bStateReligion>0</bStateReligion>
+			<bNoNonStateReligionSpread>0</bNoNonStateReligionSpread>
+			<iStateReligionHappiness>0</iStateReligionHappiness>
+			<iNonStateReligionHappiness>0</iNonStateReligionHappiness>
+			<iStateReligionUnitProductionModifier>0</iStateReligionUnitProductionModifier>
+			<iStateReligionBuildingProductionModifier>0</iStateReligionBuildingProductionModifier>
+			<iStateReligionFreeExperience>0</iStateReligionFreeExperience>
+			<bCanAcquireHolyCityWithoutStateReligion>0</bCanAcquireHolyCityWithoutStateReligion>
+			<bCanMaintainHolyCityWithoutStateReligion>0</bCanMaintainHolyCityWithoutStateReligion>
+			<YieldModifiers/>
+			<CapitalYieldModifiers/>
+			<TradeYieldModifiers/>
+			<CommerceModifiers>
+				<iCommerce>0</iCommerce>
+				<iCommerce>0</iCommerce>
+				<iCommerce>20</iCommerce>
+			</CommerceModifiers>
+			<CapitalCommerceModifiers/>
+			<AllSpecialistCommerces/>
+			<Hurrys/>
+			<SpecialBuildingNotRequireds/>
+			<SpecialistValids/>
+			<BuildingHappinessChanges>
+				<BuildingHappinessChange>
+					<BuildingType>BUILDINGCLASS_LOCAL_AUTONOMY</BuildingType>
+					<iHappinessChange>1</iHappinessChange>
+				</BuildingHappinessChange>
+				<BuildingHappinessChange>
+					<BuildingType>BUILDINGCLASS_MAYOR</BuildingType>
+					<iHappinessChange>1</iHappinessChange>
+				</BuildingHappinessChange>
+			</BuildingHappinessChanges>
+			<BuildingHealthChanges/>
+			<FeatureHappinessChanges/>
+			<ImprovementYieldChanges>
+				<ImprovementYieldChange>
+					<ImprovementType>IMPROVEMENT_FARM_POLAND</ImprovementType>
+					<ImprovementYields>
+						<iYield>1</iYield>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+					</ImprovementYields>
+				</ImprovementYieldChange>
+				<ImprovementYieldChange>
+					<ImprovementType>IMPROVEMENT_FARM</ImprovementType>
+					<ImprovementYields>
+						<iYield>1</iYield>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+					</ImprovementYields>
+				</ImprovementYieldChange>
+				<ImprovementYieldChange>
+					<ImprovementType>IMPROVEMENT_FARM_KOREA</ImprovementType>
+					<ImprovementYields>
+						<iYield>1</iYield>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+					</ImprovementYields>
+				</ImprovementYieldChange>
+				<ImprovementYieldChange>
+					<ImprovementType>IMPROVEMENT_FARM_EGYPT</ImprovementType>
+					<ImprovementYields>
+						<iYield>1</iYield>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+					</ImprovementYields>
+				</ImprovementYieldChange>
+				<ImprovementYieldChange>
+					<ImprovementType>IMPROVEMENT_FARM_MECHANIZED</ImprovementType>
+					<ImprovementYields>
+						<iYield>1</iYield>
+						<iYield>0</iYield>
+						<iYield>1</iYield>
+					</ImprovementYields>
+				</ImprovementYieldChange>
+			</ImprovementYieldChanges>
+			<SpecialistYieldChanges>
+				<SpecialistYieldChange>
+					<SpecialistType>SPECIALIST_CRAFTSMAN</SpecialistType>
+					<SpecialistYields>
+						<iYield>1</iYield>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+					</SpecialistYields>
+				</SpecialistYieldChange>
+			</SpecialistYieldChanges>
+			<SpecialistCommerceChanges/>
+			<WeLoveTheKing/>
+			<Flavors>
+				<Flavor>
+				  <FlavorType>FLAVOR_MILITARY</FlavorType>
+				  <iFlavor>-10</iFlavor>
+				</Flavor>
+				<Flavor>
+				  <FlavorType>FLAVOR_GROWTH</FlavorType>
+				  <iFlavor>10</iFlavor>
 				</Flavor>
 			</Flavors>
 		</CivicInfo>
@@ -3782,13 +3934,13 @@
 			<iGreatGeneralRateModifier>0</iGreatGeneralRateModifier>
 			<iDomesticGreatGeneralRateModifier>0</iDomesticGreatGeneralRateModifier>
 			<iStateReligionGreatPeopleRateModifier>0</iStateReligionGreatPeopleRateModifier>
-			<iDistanceMaintenanceModifier>-25</iDistanceMaintenanceModifier>
-			<iNumCitiesMaintenanceModifier>-25</iNumCitiesMaintenanceModifier>
+			<iDistanceMaintenanceModifier>-50</iDistanceMaintenanceModifier>
+			<iNumCitiesMaintenanceModifier>0</iNumCitiesMaintenanceModifier>
 			<iCorporationMaintenanceModifier>0</iCorporationMaintenanceModifier>
 			<iExtraHealth>0</iExtraHealth>
 			<iExtraHappiness>0</iExtraHappiness>
 			<iFreeExperience>0</iFreeExperience>
-			<iWonderCostModifier>25</iWonderCostModifier>
+			<iWonderCostModifier>0</iWonderCostModifier>
 			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
 			<iImprovementUpgradeRateModifier>0</iImprovementUpgradeRateModifier>
 			<iMilitaryProductionModifier>-25</iMilitaryProductionModifier>
@@ -3825,9 +3977,13 @@
 			<bCanMaintainHolyCityWithoutStateReligion>0</bCanMaintainHolyCityWithoutStateReligion>
 			<YieldModifiers/>
 			<CapitalYieldModifiers/>
-			<TradeYieldModifiers/>
+			<TradeYieldModifiers>
+				<iYield>0</iYield>
+				<iYield>0</iYield>
+				<iYield>-50</iYield>
+			</TradeYieldModifiers>
 			<CommerceModifiers>
-				<iCommerce>-15</iCommerce>
+				<iCommerce>0</iCommerce>
 				<iCommerce>0</iCommerce>
 				<iCommerce>25</iCommerce>
 			</CommerceModifiers>
@@ -3841,9 +3997,18 @@
 					<BuildingType>BUILDINGCLASS_TAVERN</BuildingType>
 					<iHappinessChange>1</iHappinessChange>
 				</BuildingHappinessChange>
+				<BuildingHappinessChange>
+					<BuildingType>BUILDINGCLASS_LOCAL_AUTONOMY</BuildingType>
+					<iHappinessChange>1</iHappinessChange>
+				</BuildingHappinessChange>
 			</BuildingHappinessChanges>
 			<BuildingHealthChanges/>
-			<FeatureHappinessChanges/>
+			<FeatureHappinessChanges>
+				<FeatureHappinessChange>
+					<FeatureType>FEATURE_FOREST</FeatureType>
+					<iHappinessChange>1</iHappinessChange>
+				</FeatureHappinessChange>
+			</FeatureHappinessChanges>
 			<ImprovementYieldChanges/>
 			<SpecialistYieldChanges/>
 			<SpecialistCommerceChanges/>
@@ -4071,6 +4236,10 @@
 			<SpecialistValids/>
 			<BuildingHappinessChanges>
 				<BuildingHappinessChange>
+					<BuildingType>BUILDINGCLASS_STADIUM</BuildingType>
+					<iHappinessChange>2</iHappinessChange>
+				</BuildingHappinessChange>
+				<BuildingHappinessChange>
 					<BuildingType>BUILDINGCLASS_TVSTATION</BuildingType>
 					<iHappinessChange>2</iHappinessChange>
 				</BuildingHappinessChange>
@@ -4089,12 +4258,7 @@
 					<iHealthChange>2</iHealthChange>
 				</BuildingHealthChange>
 			</BuildingHealthChanges>
-			<FeatureHappinessChanges>
-				<FeatureHappinessChange>
-					<FeatureType>FEATURE_FOREST</FeatureType>
-					<iHappinessChange>1</iHappinessChange>
-				</FeatureHappinessChange>
-			</FeatureHappinessChanges>
+			<FeatureHappinessChanges/>
 			<ImprovementYieldChanges/>
 			<SpecialistYieldChanges/>
 			<SpecialistCommerceChanges/>

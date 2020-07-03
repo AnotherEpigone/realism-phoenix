@@ -765,4 +765,16 @@ Developed in Europe in the late 19th and early 20th centuries, distributism was 
 		<Tag>TXT_KEY_CIVIC_DISTRIBUTISM_STRATEGY</Tag>
 		<English>Distributism makes it easier to maintain happiness and prevent separatism in a large empire, but makes it harder to build world wonders and wage war.</English>
 	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_SUBSIDIARITY</Tag>
+		<English>Subsidiarity</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_SUBSIDIARITY_PEDIA</Tag>
+		<English>Subsidiarity is an organizing principle that matters ought to be handled by the smallest, lowest or least centralized competent authority. Political decisions should be taken at a local level if possible, rather than by a central authority.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_SUBSIDIARITY_STRATEGY</Tag>
+		<English></English>
+	</TEXT>
 </Civ4GameText>
