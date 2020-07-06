@@ -1,0 +1,2575 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- edited with XMLSpy v2005 rel. 3 U (http://www.altova.com) by  (Charlyl) -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Translation of the leadernames -->
+
+
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ABBAS</Tag>
+		<English>Abbas I</English>
+		<French>Abbas le Grand</French>
+		<German>Abbas der Grosse</German>
+		<Italian>Abbas il Grand</Italian>
+		<Spanish>Abbas el Gran</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ABD_AL_RAHMAN</Tag>
+		<English>Abd al-Rahman</English>
+		<French>Abd al-Rahman</French>
+		<German>Abd al-Rahman</German>
+		<Italian>Abd al-Rahman</Italian>
+		<Spanish>Abd al-Rahman</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ABDELKADER</Tag>
+		<English>Abdelkader El-Djezairi</English>
+		<French>Abdelkader El-Djezairi</French>
+		<German>Abdelkader El-Djezairi</German>
+		<Italian>Abdelkader El-Djezairi</Italian>
+		<Spanish>Abdelkader El-Djezairi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ABRAHAM_LINCOLN</Tag>
+		<English>Abraham Lincoln</English>
+		<French>Abraham Lincoln</French>
+		<German>Abraham Lincoln</German>
+		<Italian>Abraham Lincoln</Italian>
+		<Spanish>Abraham Lincoln</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ABU_BAKR_II</Tag>
+		<English>Abu Bakr II</English>
+		<French>Abu Bakr II</French>
+		<German>Abu Bakr II</German>
+		<Italian>Abu Bakr II</Italian>
+		<Spanish>Abu Bakr II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ACAMAPICHTLI</Tag>
+		<English>Acamapichtli</English>
+		<French>Acamapichtli</French>
+		<German>Acamapichtli</German>
+		<Italian>Acamapichtli</Italian>
+		<Spanish>Acamapichtli</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ADOLF_HITLER</Tag>
+		<English>Adolf Hitler</English>
+		<French>Adolf Hitler</French>
+		<German>Adolf Hitler</German>
+		<Italian>Adolf Hitler</Italian>
+		<Spanish>Adolf Hitler</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_AFONSO_HENRIQUES</Tag>
+		<English>Afonso Henriques</English>
+		<French>Afonso Henriques</French>
+		<German>Afonso Henriques</German>
+		<Italian>Afonso Henriques</Italian>
+		<Spanish>Afonso Henriques</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_AGUEYBANA</Tag>
+		<English>Agueybana</English>
+		<French>Agueybana</French>
+		<German>Agueybana</German>
+		<Italian>Agueybana</Italian>
+		<Spanish>Agueybana</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_AHMAD_AL_MANSUR</Tag>
+		<English>Ahmad al-Mansur</English>
+		<French>Ahmad al-Mansur</French>
+		<German>Ahmad al-Mansur</German>
+		<Italian>Ahmad al-Mansur</Italian>
+		<Spanish>Ahmad al-Mansur</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_AHUITZOTL</Tag>
+		<English>Ahuitzotl</English>
+		<French>Ahuitzotl</French>
+		<German>Ahuitzotl</German>
+		<Italian>Ahuitzotl</Italian>
+		<Spanish>Ahuitzotl</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_AKBAR</Tag>
+		<English>Akbar I</English>
+		<French>Akbar I</French>
+		<German>Akbar I</German>
+		<Italian>Akbar I</Italian>
+		<Spanish>Akbar I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_AKHENATON</Tag>
+		<English>Akhenaton</English>
+		<French>Akhenaton</French>
+		<German>Echnaton</German>
+		<Italian>Akhenaton</Italian>
+		<Spanish>Akhenaton</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ALARIC_II</Tag>
+		<English>Alaric II</English>
+		<French>Alaric II</French>
+		<German>Alaric II</German>
+		<Italian>Alaric II</Italian>
+		<Spanish>Alaric II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ALEXANDER</Tag>
+		<English>Alexander III the Great</English>
+		<French>Alexander III the Great</French>
+		<German>Alexander III the Great</German>
+		<Italian>Alexander III the Great</Italian>
+		<Spanish>Alexander III the Great</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ALEXANDERII</Tag>
+		<English>Alexander II the Liberator</English>
+		<French>Alexander II the Liberator</French>
+		<German>Alexander II the Liberator</German>
+		<Italian>Alexander II the Liberator</Italian>
+		<Spanish>Alexander II the Liberator</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ALEXIS_I</Tag>
+		<English>Alexis I</English>
+		<French>Alexis I</French>
+		<German>Alexis I</German>
+		<Italian>Alexis I</Italian>
+		<Spanish>Alexis I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ALFONSO_X</Tag>
+		<English>Alfonso X the Wise</English>
+		<French>Alfonso X the Wise</French>
+		<German>Alfonso X the Wise</German>
+		<Italian>Alfonso X the Wise</Italian>
+		<Spanish>Alfonso X the Wise</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ALFRED_THE_GREAT</Tag>
+		<English>Alfred</English>
+		<French>Alfred the Great</French>
+		<German>Alfred the Great</German>
+		<Italian>Alfred the Great</Italian>
+		<Spanish>Alfred the Great</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ANDREW_II</Tag>
+		<English>Andrew II</English>
+		<French>Andrew II</French>
+		<German>Andrew II</German>
+		<Italian>Andrew II</Italian>
+		<Spanish>Andrew II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ALP_ARSLAN</Tag>
+		<English>Alp Arslan</English>
+		<French>Alp Arslan</French>
+		<German>Alp Arslan</German>
+		<Italian>Alp Arslan</Italian>
+		<Spanish>Alp Arslan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ANDRES_SANTA_CRUZ</Tag>
+		<English>Andres de Santa Cruz</English>
+		<French>Andres de Santa Cruz</French>
+		<German>Andres de Santa Cruz</German>
+		<Italian>Andres de Santa Cruz</Italian>
+		<Spanish>Andres de Santa Cruz</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ANDRONICUS_CONTOSTEPHANUS</Tag>
+		<English>Andronicus Contostephanus</English>
+		<French>Andronicus Contostephanus</French>
+		<German>Andronicus Contostephanus</German>
+		<Italian>Andronicus Contostephanus</Italian>
+		<Spanish>Andronicus Contostephanus</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ARGISHTI</Tag>
+		<English>Argishti I</English>
+		<French>Argishti I</French>
+		<German>Argishti I</German>
+		<Italian>Argishti I</Italian>
+		<Spanish>Argishti I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ARPAD</Tag>
+		<English>Arpad</English>
+		<French>Arpad</French>
+		<German>Arpad</German>
+		<Italian>Arpad</Italian>
+		<Spanish>Arpad</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ASHIKAGA</Tag>
+		<English>Ashikaga Takauji</English>
+		<French>Ashikaga Takauji</French>
+		<German>Ashikaga Takauji</German>
+		<Italian>Ashikaga Takauji</Italian>
+		<Spanish>Ashikaga Takauji</Spanish>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ASOKA</Tag>
+		<English>Ashoka</English>
+		<French>Ashoka</French>
+		<German>Ashoka</German>
+		<Italian>Ashoka</Italian>
+		<Spanish>Ashoka</Spanish>
+	</TEXT>	
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ASKIA</Tag>
+		<English>Askia Muhammad I</English>
+		<French>Askia Muhammad</French>
+		<German>Askia Muhammad</German>
+		<Italian>Askia Muhammad</Italian>
+		<Spanish>Askia Muhammad</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ATTILA</Tag>
+		<English>Attila</English>
+		<French>Attila</French>
+		<German>Attila</German>
+		<Italian>Attila</Italian>
+		<Spanish>Attila</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BAIBARS</Tag>
+		<English>Baibars</English>
+		<French>Baibars</French>
+		<German>Baibars</German>
+		<Italian>Baibars</Italian>
+		<Spanish>Baibars</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BARBAROSSA</Tag>
+		<English>Hayreddin Barbarossa</English>
+		<French>Hayreddin Barbarossa</French>
+		<German>Hayreddin Barbarossa</German>
+		<Italian>Hayreddin Barbarossa</Italian>
+		<Spanish>Hayreddin Barbarossa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BASIL</Tag>
+		<English>Basil II</English>
+		<French>Basil II</French>
+		<German>Basil II</German>
+		<Italian>Basil II</Italian>
+		<Spanish>Basil II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BALDWIN_I</Tag>
+		<English>Baldwin I</English>
+		<French>Baldwin I</French>
+		<German>Baldwin I</German>
+		<Italian>Baldwin I</Italian>
+		<Spanish>Baldwin I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BANTU</Tag>
+		<English>Mvemba a Nzinga</English>
+		<French>Mvemba a Nzinga</French>
+		<German>Mvemba a Nzinga</German>
+		<Italian>Mvemba a Nzinga</Italian>
+		<Spanish>Mvemba a Nzinga</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BELA_IV</Tag>
+		<English>Bela IV</English>
+		<French>Bela IV</French>
+		<German>Bela IV</German>
+		<Italian>Bela IV</Italian>
+		<Spanish>Bela IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BENITO_JUAREZ</Tag>
+		<English>Benito Juarez</English>
+		<French>Benito Juarez</French>
+		<German>Benito Juarez</German>
+		<Italian>Benito Juarez</Italian>
+		<Spanish>Benito Juarez</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BENIN</Tag>
+		<English>Ewuare</English>
+		<French>Ewuare</French>
+		<German>Ewuare</German>
+		<Italian>Ewuare</Italian>
+		<Spanish>Ewuare</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BENITO_MUSSOLINI</Tag>
+		<English>Benito Mussolini</English>
+		<French>Benito Mussolini</French>
+		<German>Benito Mussolini</German>
+		<Italian>Benito Mussolini</Italian>
+		<Spanish>Benito Mussolini</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BILGE_KHAGAN</Tag>
+		<English>Bilge Khagan</English>
+		<French>Bilge Khagan</French>
+		<German>Bilge Khagan</German>
+		<Italian>Bilge Khagan</Italian>
+		<Spanish>Bilge Khagan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BILQUIS</Tag>
+		<English>
+			<Text>Bilquis</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</English>
+		<French>
+			<Text>Bilquis</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Bilquis</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Bilquis</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Bilquis</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BIRGER_JARL</Tag>
+		<English>Birger Jarl</English>
+		<French>Birger Jarl</French>
+		<German>Birger Jarl</German>
+		<Italian>Birger Jarl</Italian>
+		<Spanish>Birger Jarl</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BISMARCK</Tag>
+		<English>Otto von Bismarck</English>
+		<French>Otto von Bismarck</French>
+		<German>Otto von Bismarck</German>
+		<Italian>Otto von Bismarck</Italian>
+		<Spanish>Otto von Bismarck</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BOHDAN_KHMELNYTSKY</Tag>
+		<English>Bohdan Khmelnytsky</English>
+		<French>Bohdan Khmelnytsky</French>
+		<German>Bohdan Khmelnytsky</German>
+		<Italian>Bohdan Khmelnytsky</Italian>
+		<Spanish>Bohdan Khmelnytsky</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BOHEMOND_I</Tag>
+		<English>Bohemond I of Antioch</English>
+		<French>Bohemond I of Antioch</French>
+		<German>Bohemond I of Antioch</German>
+		<Italian>Bohemond I of Antioch</Italian>
+		<Spanish>Bohemond I of Antioch</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BOLESLAW_I</Tag>
+		<English>Boleslaw I the Brave</English>
+		<French>Boleslaw I</French>
+		<German>Boleslaw I</German>
+		<Italian>Boleslaw I</Italian>
+		<Spanish>Boleslaw I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BOLESLAW_III</Tag>
+		<English>Boleslaw III</English>
+		<French>Boleslaw III</French>
+		<German>Boleslaw III</German>
+		<Italian>Boleslaw III</Italian>
+		<Spanish>Boleslaw III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BONIAK</Tag>
+		<English>Boniak</English>
+		<French>Boniak</French>
+		<German>Boniak</German>
+		<Italian>Boniak</Italian>
+		<Spanish>Boniak</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BRIAN_BORU</Tag>
+		<English>Brian Boru</English>
+		<French>Brian Boru</French>
+		<German>Brain Boru</German>
+		<Italian>Brian Boru</Italian>
+		<Spanish>Brian Boru</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CAO_CAO</Tag>
+		<English>Cao Cao</English>
+		<French>Cao Cao</French>
+		<German>Cao Cao</German>
+		<Italian>Cao Cao</Italian>
+		<Spanish>Cao Cao</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CARLOS</Tag>
+		<English>Carlos I</English>
+		<French>Charles V.</French>
+		<German>Karl V.</German>
+		<Italian>Carlos V.</Italian>
+		<Spanish>Carlos V.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CASIMIR</Tag>
+		<English>Casimir III</English>
+		<French>
+			<Text>Kazimierz III Wielki</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Casimir</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Kazimierz III Wielki</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Casimir</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CATHERINE</Tag>
+		<English>
+			<Text>Catherine II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</English>
+		<French>
+			<Text>Catherine II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Catherine II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Catherine II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Catherine II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CETSHWAYO</Tag>
+		<English>Cetshwayo</English>
+		<French>Cetshwayo</French>
+		<German>Cetshwayo</German>
+		<Italian>Cetshwayo</Italian>
+		<Spanish>Cetshwayo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CHANDRAGUPTA</Tag>
+		<English>Chandragupta Vikramaditya</English>
+		<French>Chandragupta Vikramaditya</French>
+		<German>Chandragupta Vikramaditya</German>
+		<Italian>Chandragupta Vikramaditya</Italian>
+		<Spanish>Chandragupta Vikramaditya</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CHANDRAGUPTA_MAURYA</Tag>
+		<English>Chandragupta Maurya</English>
+		<French>Chandragupta Maurya</French>
+		<German>Chandragupta Maurya</German>
+		<Italian>Chandragupta Maurya</Italian>
+		<Spanish>Chandragupta Maurya</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CHARLES_FLANDERS</Tag>
+		<English>Charles I</English>
+		<French>Charles I</French>
+		<German>Charles I</German>
+		<Italian>Charles I</Italian>
+		<Spanish>Charles I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CHARLES_III_SPAIN</Tag>
+		<English>Carlos III</English>
+		<French>Carlos III</French>
+		<German>Carlos III</German>
+		<Italian>Carlos III</Italian>
+		<Spanish>Carlos III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CHARLES_XIV_JOHN</Tag>
+		<English>Karl XIV Johan</English>
+		<French>Charles XIV John</French>
+		<German>Charles XIV John</German>
+		<Italian>Charles XIV John</Italian>
+		<Spanish>Charles XIV John</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CHIANG_KAI_SHEK</Tag>
+		<English>Chiang Kai-Shek</English>
+		<French>Chiang Kai-Shek</French>
+		<German>Chiang Kai-Shek</German>
+		<Italian>Chiang Kai-Shek</Italian>
+		<Spanish>Chiang Kai-Shek</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CHRISTIAN_IV</Tag>
+		<English>Christian IV</English>
+		<French>Christian IV</French>
+		<German>Christian IV</German>
+		<Italian>Christian IV</Italian>
+		<Spanish>Christian IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CHURCHILL</Tag>
+		<English>Winston Churchill</English>
+		<French>Winston Churchill</French>
+		<German>Winston Churchill</German>
+		<Italian>Winston Churchill</Italian>
+		<Spanish>Winston Churchill</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CONTINENTAL</Tag>
+		<English>Continental Congress</English>
+		<French>Continental Congress</French>
+		<German>Continental Congress</German>
+		<Italian>Continental Congress</Italian>
+		<Spanish>Continental Congress</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CUNHAMBEBE</Tag>
+		<English>Cunhambebe</English>
+		<French>Cunhambebe</French>
+		<German>Cunhambebe</German>
+		<Italian>Cunhambebe</Italian>
+		<Spanish>Cunhambebe</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CYRUS</Tag>
+		<English>Cyrus II</English>
+		<French>Cyrus II</French>
+		<German>Cyrus II</German>
+		<Italian>Cyrus II</Italian>
+		<Spanish>Cyrus II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_DANIEL_OF_HALYCH</Tag>
+		<English>Mindaugas</English>
+		<French>Mindaugas</French>
+		<German>Mindaugas</German>
+		<Italian>Mindaugas</Italian>
+		<Spanish>Mindaugas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_DAOZONG_LIAO</Tag>
+		<English>Daozong of Liao</English>
+		<French>Daozong of Liao</French>
+		<German>Daozong of Liao</German>
+		<Italian>Daozong of Liao</Italian>
+		<Spanish>Daozong of Liao</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_DARIUS</Tag>
+		<English>Darius I</English>
+		<French>Darius I</French>
+		<German>Darius I</German>
+		<Italian>Darius I</Italian>
+		<Spanish>Darius I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_DAVID</Tag>
+		<English>David</English>
+		<French>David</French>
+		<German>David</German>
+		<Italian>David</Italian>
+		<Spanish>David</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_DAVID_I</Tag>
+		<English>David I</English>
+		<French>David I</French>
+		<German>David I</German>
+		<Italian>David I</Italian>
+		<Spanish>David I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_DAVID_IV</Tag>
+		<English>David IV the Builder</English>
+		<French>David IV</French>
+		<German>David IV</German>
+		<Italian>David IV</Italian>
+		<Spanish>David IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_DE_GAULLE</Tag>
+		<English>Charles de Gaulle</English>
+		<French>Charles de Gaulle</French>
+		<German>Charles de Gaulle</German>
+		<Italian>Charles de Gaulle</Italian>
+		<Spanish>Charles de Gaulle</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_DEMETRIUS_OF_BACTRIA</Tag>
+		<English>Demetrius I Aniketos</English>
+		<French>Demetrius I Aniketos</French>
+		<German>Demetrius I Aniketos</German>
+		<Italian>Demetrius I Aniketos</Italian>
+		<Spanish>Demetrius I Aniketos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_DINGANE</Tag>
+		<English>Dingane</English>
+		<French>Dingane</French>
+		<German>Dingane</German>
+		<Italian>Dingane</Italian>
+		<Spanish>Dingane</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_DIOCLETIAN</Tag>
+		<English>Diocletian</English>
+		<French>Diocletian</French>
+		<German>Diocletian</German>
+		<Italian>Diocletian</Italian>
+		<Spanish>Diocletian</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_DOM_PEDRO</Tag>
+		<English>Pedro II</English>
+		<French>Pedro II</French>
+		<German>Pedro II</German>
+		<Italian>Pedro II</Italian>
+		<Spanish>Pedro II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_DURRANI</Tag>
+		<English>Ahmad Shah Durrani</English>
+		<French>Ahmad Shah Durrani</French>
+		<German>Ahmad Shah Durrani</German>
+		<Italian>Ahmad Shah Durrani</Italian>
+		<Spanish>Ahmad Shah Durrani</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_EAMON_DE_VALERA</Tag>
+		<English>Eamon de Valera</English>
+		<French>Eamon de Valera</French>
+		<German>Eamon de Valera</German>
+		<Italian>Eamon de Valera</Italian>
+		<Spanish>Eamon de Valera</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_EDWARD_LONGSHANKS</Tag>
+		<English>Edward I Longshanks</English>
+		<French>Edward I Longshanks</French>
+		<German>Edward I Longshanks</German>
+		<Italian>Edward I Longshanks</Italian>
+		<Spanish>Edward I Longshanks</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ELEANOR</Tag>
+		<English>
+			<Text>Eleanor of Aquitaine</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</English>
+		<French>
+			<Text>Eleanor of Aquitaine</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Eleanor of Aquitaine</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Eleanor of Aquitaine</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Eleanor of Aquitaine</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ELIZABETH</Tag>
+		<English>
+			<Text>Elizabeth I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</English>
+		<French>
+			<Text>Elizabeth I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Elizabeth I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Elizabeth I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Elizabeth I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_EL_HADJ_UMAR_TALL</Tag>
+		<English>El Hadj Umar Tall</English>
+		<French>El Hadj Umar Tall</French>
+		<German>El Hadj Umar Tall</German>
+		<Italian>El Hadj Umar Tall</Italian>
+		<Spanish>El Hadj Umar Tall</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ELISSA</Tag>
+		<English>
+			<Text>Elissa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</English>
+		<French>
+			<Text>Elissa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Elissa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Elissa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Elissa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ENRICO_DANDOLO</Tag>
+		<English>Enrico Dandolo</English>
+		<French>Enrico Dandolo</French>
+		<German>Enrico Dandolo</German>
+		<Italian>Enrico Dandolo</Italian>
+		<Spanish>Enrico Dandolo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_EUMATHIOS_PHILOKALES</Tag>
+		<English>Eumathios Philokales</English>
+		<French>Eumathios Philokales</French>
+		<German>Eumathios Philokales</German>
+		<Italian>Eumathios Philokales</Italian>
+		<Spanish>Eumathios Philokales</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_FERDINAND_III</Tag>
+		<English>Ferdinand III</English>
+		<French>Ferdinand III</French>
+		<German>Ferdinand III</German>
+		<Italian>Ferdinand III</Italian>
+		<Spanish>Ferdinand III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_FERDINAND_MARIA</Tag>
+		<English>Ferdinand Maria</English>
+		<French>Ferdinand Maria</French>
+		<German>Ferdinand Maria</German>
+		<Italian>Ferdinand Maria</Italian>
+		<Spanish>Ferdinand Maria</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_FERRY_III</Tag>
+		<English>Ferry III</English>
+		<French>Ferry III</French>
+		<German>Ferry III</German>
+		<Italian>Ferry III</Italian>
+		<Spanish>Ferry III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_FLORIS</Tag>
+		<English>Floris V</English>
+		<French>Floris V</French>
+		<German>Floris V</German>
+		<Italian>Floris V</Italian>
+		<Spanish>Floris V</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_FRANCESCO_MOLIN</Tag>
+		<English>Francesco Molin</English>
+		<French>Francesco Molin</French>
+		<German>Francesco Molin</German>
+		<Italian>Francesco Molin</Italian>
+		<Spanish>Francesco Molin</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_FRANCISCO_MORAZAN</Tag>
+		<English>Francisco Morazan</English>
+		<French>Francisco Morazan</French>
+		<German>Francisco Morazan</German>
+		<Italian>Francisco Morazan</Italian>
+		<Spanish>Francisco Morazan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_FRANCO</Tag>
+		<English>Francisco Franco</English>
+		<French>Francisco Franco</French>
+		<German>Francisco Franco</German>
+		<Italian>Francisco Franco</Italian>
+		<Spanish>Francisco Franco</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_FRANKLIN_ROOSEVELT</Tag>
+		<English>Franklin D. Roosevelt</English>
+		<French>Franklin D. Roosevelt</French>
+		<German>Franklin D. Roosevelt</German>
+		<Italian>Franklin D. Roosevelt</Italian>
+		<Spanish>Franklin D. Roosevelt</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_FREDERICK</Tag>
+		<English>Frederick II Hohenzollern</English>
+		<French>Frederick II Hohenzollern</French>
+		<German>Frederick II Hohenzollern</German>
+		<Italian>Frederick II Hohenzollern</Italian>
+		<Spanish>Frederick II Hohenzollern</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_FREDERICK_III</Tag>
+		<English>Frederick III</English>
+		<French>Frederick III</French>
+		<German>Frederick III</German>
+		<Italian>Frederick III</Italian>
+		<Spanish>Frederick III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_FREDERICK_WILLIAM</Tag>
+		<English>Frederick William</English>
+		<French>Frederick William</French>
+		<German>Frederick William</German>
+		<Italian>Frederick William</Italian>
+		<Spanish>Frederick William</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_FRIEDRICH_HOHENSTAUFEN</Tag>
+		<English>Frederick II Hohenstaufen</English>
+		<French>Frederick II Hohenstaufen</French>
+		<German>Frederick II Hohenstaufen</German>
+		<Italian>Frederick II Hohenstaufen</Italian>
+		<Spanish>Frederick II Hohenstaufen</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_GAMAL_ABDEL_NASSER</Tag>
+		<English>Gamal Abdel Nasser</English>
+		<French>Gamal Abdel Nasser</French>
+		<German>Gamal Abdel Nasser</German>
+		<Italian>Gamal Abdel Nasser</Italian>
+		<Spanish>Gamal Abdel Nasser</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_GANDHI</Tag>
+		<English>Mohandas Gandhi</English>
+		<French>Mohandas Gandhi</French>
+		<German>Mohandas Gandhi</German>
+		<Italian>Mohandas Gandhi</Italian>
+		<Spanish>Mohandas Gandhi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_GEBRE_MESQEL</Tag>
+		<English>Gebre Mesqel Lalibela</English>
+		<French>Gebre Mesqel Lalibela</French>
+		<German>Gebre Mesqel Lalibela</German>
+		<Italian>Gebre Mesqel Lalibela</Italian>
+		<Spanish>Gebre Mesqel Lalibela</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_GENSERIC</Tag>
+		<English>Genseric</English>
+		<French>Genseric</French>
+		<German>Genseric</German>
+		<Italian>Genseric</Italian>
+		<Spanish>Genseric</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_GEORGE_II_RAKOCZY</Tag>
+		<English>George II Rakoczy</English>
+		<French>George II Rakoczy</French>
+		<German>George II Rakoczy</German>
+		<Italian>George II Rakoczy</Italian>
+		<Spanish>George II Rakoczy</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_GERONIMO</Tag>
+		<English>Geronimo</English>
+		<French>Geronimo</French>
+		<German>Geronimo</German>
+		<Italian>Geronimo</Italian>
+		<Spanish>Geronimo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_GOJONG</Tag>
+		<English>Gojong</English>
+		<French>Gojong</French>
+		<German>Gojong</German>
+		<Italian>Gojong</Italian>
+		<Spanish>Gojong</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_GONGMIN</Tag>
+		<English>Gongmin</English>
+		<French>Gongmin</French>
+		<German>Gongmin</German>
+		<Italian>Gongmin</Italian>
+		<Spanish>Gongmin</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_GUARANI_CHIEF</Tag>
+		<English>Sepe Tiaraju</English>
+		<French>Sepe Tiaraju</French>
+		<German>Sepe Tiaraju</German>
+		<Italian>Sepe Tiaraju</Italian>
+		<Spanish>Sepe Tiaraju</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_GUIDO</Tag>
+		<English>Ugolino della Gherardesca</English>
+		<French>Ugolino della Gherardesca</French>
+		<German>Ugolino della Gherardesca</German>
+		<Italian>Ugolino della Gherardesca</Italian>
+		<Spanish>Ugolino della Gherardesca</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_GUSTAV_ADOLF_II</Tag>
+		<English>Gustav II Adolf</English>
+		<French>Gustav II Adolf</French>
+		<German>Gustav II Adolf</German>
+		<Italian>Gustav II Adolf</Italian>
+		<Spanish>Gustav II Adolf</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_GUSTAV_VASA</Tag>
+		<English>Gustav I Vasa</English>
+		<French>Gustav I Vasa</French>
+		<German>Gustav I Wasa</German>
+		<Italian>Gustav I Vasa</Italian>
+		<Spanish>Gustav I Vasa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_HABIB_BOURGUIBA</Tag>
+		<English>Habib Bourguiba</English>
+		<French>Habib Bourguiba</French>
+		<German>Habib Bourguiba</German>
+		<Italian>Habib Bourguiba</Italian>
+		<Spanish>Habib Bourguiba</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_HAIDA_CHIEF</Tag>
+		<English>Koyah</English>
+		<French>Koyah</French>
+		<German>Koyah</German>
+		<Italian>Koyah</Italian>
+		<Spanish>Koyah</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_HAILE_SELASSIE</Tag>
+		<English>Haile Selassie I</English>
+		<French>Haile Selassie I</French>
+		<German>Haile Selassie I</German>
+		<Italian>Haile Selassie I</Italian>
+		<Spanish>Haile Selassie I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_HANNIBAL</Tag>
+		<English>Hannibal Barca</English>
+		<French>Hannibal Barca</French>
+		<German>Hannibal Barca</German>
+		<Italian>Hannibal BarcaI</Italian>
+		<Spanish>Hannibal Barca</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_HANNO</Tag>
+		<English>Hanno I</English>
+		<French>Hanno I</French>
+		<German>Hanno I</German>
+		<Italian>Hanno I</Italian>
+		<Spanish>Hanno I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_HARUN_AL_RASHID</Tag>
+		<English>Harun Al-Rashid</English>
+		<French>Harun Al-Rashid</French>
+		<German>Harun Al-Raschid</German>
+		<Italian>Harun Al-Rashid</Italian>
+		<Spanish>Harun Al-Rashid</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_HAYAM_WURUK</Tag>
+		<English>Hayam Wuruk</English>
+		<French>Hayam Wuruk</French>
+		<German>Hayam Wuruk</German>
+		<Italian>Hayam Wuruk</Italian>
+		<Spanish>Hayam Wuruk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_HENRI</Tag>
+		<English>Henri IV</English>
+		<French>Henri IV</French>
+		<German>Heinrich IV.</German>
+		<Italian>Henri IV</Italian>
+		<Spanish>Henri IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_HENRY_V</Tag>
+		<English>Henry V</English>
+		<French>Henry V</French>
+		<German>Henry V</German>
+		<Italian>Henry V</Italian>
+		<Spanish>Henry V</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_HIAWATHA</Tag>
+		<English>Hiawatha</English>
+		<French>Hiawatha</French>
+		<German>Hiawatha</German>
+		<Italian>Hiawatha</Italian>
+		<Spanish>Hiawatha</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_HIDEYOSHI</Tag>
+		<English>Toyotomi Hideyoshi</English>
+		<French>Toyotomi Hideyoshi</French>
+		<German>Toyotomi Hideyoshi</German>
+		<Italian>Toyotomi Hideyoshi</Italian>
+		<Spanish>Toyotomi Hideyoshi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_HIROHITO</Tag>
+		<English>Hirohito</English>
+		<French>Hirohito</French>
+		<German>Hirohito</German>
+		<Italian>Hirohito</Italian>
+		<Spanish>Hirohito</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_HITLER</Tag>
+		<English>Adolf Hitler</English>
+		<French>Adolf Hitler</French>
+		<German>Adolf Hitler</German>
+		<Italian>Adolf Hitler</Italian>
+		<Spanish>Adolf Hitler</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_IBN_SAUD</Tag>
+		<English>Ibn Saud</English>
+		<French>Ibn Saud</French>
+		<German>Ibn Saud</German>
+		<Italian>Ibn Saud</Italian>
+		<Spanish>Ibn Saud</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_INCAROCA</Tag>
+		<English>Inca Roca</English>
+		<French>Inca Roca</French>
+		<German>Inca Roca</German>
+		<Italian>Inca Roca</Italian>
+		<Spanish>Inca Roca</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_IOANNIS_METAXAS</Tag>
+		<English>Ioannis Metaxas</English>
+		<French>Ioannis Metaxas</French>
+		<German>Ioannis Metaxas</German>
+		<Italian>Ioannis Metaxas</Italian>
+		<Spanish>Ioannis Metaxas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ISLAM_III_GIRAY</Tag>
+		<English>Islam III Giray</English>
+		<French>Islam III Giray</French>
+		<German>Islam III Giray</German>
+		<Italian>Islam III Giray</Italian>
+		<Spanish>Islam III Giray</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ISKANDAR_MUDA</Tag>
+		<English>Iskandar Muda</English>
+		<French>Iskandar Muda</French>
+		<German>Iskandar Muda</German>
+		<Italian>Iskandar Muda</Italian>
+		<Spanish>Iskandar Muda</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ISMAIL_SAMANI</Tag>
+		<English>Ismail Samani</English>
+		<French>Ismail Samani</French>
+		<German>Ismail Samani</German>
+		<Italian>Ismail Samani</Italian>
+		<Spanish>Ismail Samani</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_IVAN_ASEN_II</Tag>
+		<English>Ivan Asen II</English>
+		<French>Ivan Asen II</French>
+		<German>Ivan Asen II</German>
+		<Italian>Ivan Asen II</Italian>
+		<Spanish>Ivan Asen II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_IVAN_III</Tag>
+		<English>Ivan III</English>
+		<French>Ivan III</French>
+		<German>Ivan III</German>
+		<Italian>Ivan III</Italian>
+		<Spanish>Ivan III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_JADWIGA</Tag>
+		<English>
+			<Text>Jadwiga</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</English>
+		<French>
+			<Text>Jadwiga</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Jadwiga</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Jadwiga</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Jadwiga</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_JAHANGIR</Tag>
+		<English>Jahangir</English>
+		<French>Jahangir</French>
+		<German>Jahangir</German>
+		<Italian>Jahangir</Italian>
+		<Spanish>Jahangir</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_JAMES_IV_SCOTLAND</Tag>
+		<English>James IV</English>
+		<French>James IV</French>
+		<German>James IV</German>
+		<Italian>James IV</Italian>
+		<Spanish>James IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_JAMES_K_POLK</Tag>
+		<English>James K. Polk</English>
+		<French>James K.Polk</French>
+		<German>James K.Polk</German>
+		<Italian>James K.Polk</Italian>
+		<Spanish>James K.Polk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_JAYAVARMAN_VII</Tag>
+		<English>Jayavarman VII</English>
+		<French>Jayavarman VII</French>
+		<German>Jayavarman VII</German>
+		<Italian>Jayavarman VII</Italian>
+		<Spanish>Jayavarman VII</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_JOHAN_DE_WITT</Tag>
+		<English>Johan de Witt</English>
+		<French>Johan de Witt</French>
+		<German>Johan de Witt</German>
+		<Italian>Johan de Witt</Italian>
+		<Spanish>Johan de Witt</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_JOHN_GEORGE_II</Tag>
+		<English>John George II</English>
+		<French>John George II</French>
+		<German>John George II</German>
+		<Italian>John George II</Italian>
+		<Spanish>John George II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_JOHN_II_KOMNENOS</Tag>
+		<English>John II Komnenos</English>
+		<French>John II Komnenos</French>
+		<German>John II Komnenos</German>
+		<Italian>John II Komnenos</Italian>
+		<Spanish>John II Komnenos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_JOHN_SOBIESKI</Tag>
+		<English>John III Sobieski</English>
+		<French>
+			<Text>Jan III Sobieski</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>John III Sobieski</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Jan III Sobieski</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>John III Sobieski</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_JOSEPH_PILSUDSKI</Tag>
+		<English>Josef Pilsudski</English>
+		<French>
+			<Text>Josef Pilsudski</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Josef Pilsudski</Text>
+			<Gender>Neuter</Gender>
+			<Plural>1</Plural>
+		</German>
+		<Italian>
+			<Text>Josef Pilsudski</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Josef Pilsudski</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_JUAN_JOSE_DE_AUSTRIA</Tag>
+		<English>Juan Jose de Austria</English>
+		<French>Juan Jose de Austria</French>
+		<German>Juan Jose de Austria</German>
+		<Italian>Juan Jose de Austria</Italian>
+		<Spanish>Juan Jose de Austria</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_KAHINA</Tag>
+		<English>
+			<Text>Kahina</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</English>
+		<French>
+			<Text>Kahina</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Kahina</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Kahina</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Kahina</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_KAK_TILIW</Tag>
+		<English>K'ak' Tiliw Chan Yopaat</English>
+		<French>K'ak' Tiliw Chan Yopaat</French>
+		<German>K'ak' Tiliw Chan Yopaat</German>
+		<Italian>K'ak' Tiliw Chan Yopaat</Italian>
+		<Spanish>K'ak' Tiliw Chan Yopaat</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_KANGXI</Tag>
+		<English>Kangxi Emperor</English>
+		<French>Kangxi Emperor</French>
+		<German>Kangxi Emperor</German>
+		<Italian>Kangxi Emperor</Italian>
+		<Spanish>Kangxi Emperor</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_KARIKALA_CHOLA</Tag>
+		<English>Karikala Chola</English>
+		<French>Karikala Chola</French>
+		<German>Karikala Chola</German>
+		<Italian>Karikala Chola</Italian>
+		<Spanish>Karikala Chola</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_KARL_X_GUSTAV</Tag>
+		<English>Karl X Gustav</English>
+		<French>Karl X Gustav</French>
+		<German>Karl X Gustav</German>
+		<Italian>Karl X Gustav</Italian>
+		<Spanish>Karl X Gustav</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_KHORLOOGIIN</Tag>
+		<English>Khorloogiin Choibalsan</English>
+		<French>Khorloogiin Choibalsan</French>
+		<German>Khorloogiin Choibalsan</German>
+		<Italian>Khorloogiin Choibalsan</Italian>
+		<Spanish>Khorloogiin Choibalsan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_KILIJ_ARSLAN_II</Tag>
+		<English>Kilij Arslan II</English>
+		<French>Kilij Arslan II</French>
+		<German>Kilij Arslan II</German>
+		<Italian>Kilij Arslan II</Italian>
+		<Spanish>Kilij Arslan II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_KIM_IL_SUNG</Tag>
+		<English>Kim Il Sung</English>
+		<French>Kim Il Sung</French>
+		<German>Kim Il-Sung</German>
+		<Italian>Kim Il Sung</Italian>
+		<Spanish>Kim Il Sung</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_KONRAD_ADENAUER</Tag>
+		<English>Konrad Adenauer</English>
+		<French>Konrad Adenauer</French>
+		<German>Konrad Adenauer</German>
+		<Italian>Konrad Adenauer</Italian>
+		<Spanish>Konrad Adenauer</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_KORNILY</Tag>
+		<English>Kornily Yakovlev</English>
+		<French>Kornily Yakovlev</French>
+		<German>Kornily Yakovlev</German>
+		<Italian>Kornily Yakovlev</Italian>
+		<Spanish>Kornily Yakovlev</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_KOXINGA</Tag>
+		<English>Koxinga</English>
+		<French>Koxinga</French>
+		<German>Koxinga</German>
+		<Italian>Koxinga</Italian>
+		<Spanish>Koxinga</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_KRISHNADEVARAYA</Tag>
+		<English>Krishnadevaraya</English>
+		<French>Krishnadevaraya</French>
+		<German>Krishnadevaraya</German>
+		<Italian>Krishnadevaraya</Italian>
+		<Spanish>Krishnadevaraya</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_KRISHNA_RAJA_WADIYAR_IV</Tag>
+		<English>Krishna Raja Wadiyar IV</English>
+		<French>Krishna Raja Wadiyar IV</French>
+		<German>Krishna Raja Wadiyar IV</German>
+		<Italian>Krishna Raja Wadiyar IV</Italian>
+		<Spanish>Krishna Raja Wadiyar IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_KUCHUM</Tag>
+		<English>Kuchum</English>
+		<French>Kuchum</French>
+		<German>Kuchum</German>
+		<Italian>Kuchum</Italian>
+		<Spanish>Kuchum</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_KULOTHUNGA_CHOLA_I</Tag>
+		<English>Kulothunga Chola I</English>
+		<French>Kulothunga Chola I</French>
+		<German>Kulothunga Chola I</German>
+		<Italian>Kulothunga Chola I</Italian>
+		<Spanish>Kulothunga Chola I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_KULOTHUNGA_CHOLA_III</Tag>
+		<English>Kulothunga Chola III</English>
+		<French>Kulothunga Chola III</French>
+		<German>Kulothunga Chola III</German>
+		<Italian>Kulothunga Chola III</Italian>
+		<Spanish>Kulothunga Chola III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_LADY_XOC</Tag>
+		<English>
+			<Text>Lady Xoc</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</English>
+		<French>
+			<Text>Lady Xoc</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Lady Xoc</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Lady Xoc</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Lady Xoc</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_LENIN</Tag>
+		<English>Vladimir Lenin</English>
+		<French>Vladimir Lenin</French>
+		<German>Vladimir Lenin</German>
+		<Italian>Vladimir Lenin</Italian>
+		<Spanish>Vladimir Lenin</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_LEO</Tag>
+		<English>Levon I</English>
+		<French>Levon I</French>
+		<German>Levon I</German>
+		<Italian>Levon I</Italian>
+		<Spanish>Levon I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_LEOPOLD_VI</Tag>
+		<English>Leopold VI</English>
+		<French>Leopold VI</French>
+		<German>Leopold VI</German>
+		<Italian>Leopold VI</Italian>
+		<Spanish>Leopold VI</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_LLYWELYN_THE_GREAT</Tag>
+		<English>Llywelyn ap Iorwerth</English>
+		<French>Llywelyn the Great</French>
+		<German>Llywelyn the Great</German>
+		<Italian>Llywelyn the Great</Italian>
+		<Spanish>Llywelyn the Great</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_LOUIS_IX_THE_SAINT</Tag>
+		<English>Louis IX the Saint</English>
+		<French>Saint Louis</French>
+		<German>Louis IX, der Heilige</German>
+		<Italian>Louis IX the Saint</Italian>
+		<Spanish>Louis IX the Saint</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_LOUIS_I</Tag>
+		<English>Lajos I</English>
+		<French>Lajos I the Great</French>
+		<German>Lajos I the Great</German>
+		<Italian>Lajos I the Great</Italian>
+		<Spanish>Lajos I the Great</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MAHMUD_GHAZNI</Tag>
+		<English>Mahmud of Ghazni</English>
+		<French>Mahmud of Ghazni</French>
+		<German>Mahmud of Ghazni</German>
+		<Italian>Mahmud of Ghazni</Italian>
+		<Spanish>Mahmud of Ghazni</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MAHMUD_II</Tag>
+		<English>Mahmud II</English>
+		<French>Mahmud II</French>
+		<German>Mahmud II</German>
+		<Italian>Mahmud II</Italian>
+		<Spanish>Mahmud II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MALIK_SHAH</Tag>
+		<English>Malik Shah</English>
+		<French>Malik Shah</French>
+		<German>Malik Shah</German>
+		<Italian>Malik Shah</Italian>
+		<Spanish>Malik Shah</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MANDUKHAI_KHATUN</Tag>
+		<English>
+			<Text>Mandukhai Khatun</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</English>
+		<French>
+			<Text>Mandukhai Khatun</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Mandukhai Khatun</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Mandukhai Khatun</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Mandukhai Khatun</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MANNERHEIM</Tag>
+		<English>Carl Mannerheim</English>
+		<French>Carl Mannerheim</French>
+		<German>Carl Mannerheim</German>
+		<Italian>Carl Mannerheim</Italian>
+		<Spanish>Carl Mannerheim</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MARCUS_AURELIUS</Tag>
+		<English>Marcus Aurelius</English>
+		<French>Marcus Aurelius</French>
+		<German>Marcus Aurelius</German>
+		<Italian>Marcus Aurelius</Italian>
+		<Spanish>Marcus Aurelius</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MARIA_THERESA</Tag>
+		<English>
+			<Text>Maria Theresa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</English>
+		<French>
+			<Text>Maria Theresa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Maria Theresa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Maria Theresa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Maria Theresa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MASSINISSA</Tag>
+		<English>Massinissa</English>
+		<French>Massinissa</French>
+		<German>Massinissa</German>
+		<Italian>Massinissa</Italian>
+		<Spanish>Massinissa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MATEI_BASARAB</Tag>
+		<English>Matei Basarab</English>
+		<French>Matei Basarab</French>
+		<German>Matei Basarab</German>
+		<Italian>Matei Basarab</Italian>
+		<Spanish>Matei Basarab</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MATTHIAS_CORVINUS</Tag>
+		<English>Matthias Corvinus</English>
+		<French>Matthias ler de Hongrie</French>
+		<German>Matthias Corvinus</German>
+		<Italian>Mattia Corvino</Italian>
+		<Spanish>Mat&#237;as Corvino</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MEHMED_IV</Tag>
+		<English>Mehmed IV the Hunter</English>
+		<French>Mehmed IV</French>
+		<German>Mehmed IV</German>
+		<Italian>Mehmed IV</Italian>
+		<Spanish>Mehmed IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MEHMET_ALIPASHA</Tag>
+		<English>Mehmet Ali Pasha</English>
+		<French>Mehmet Ali Pasha</French>
+		<German>Mehmet Ali Pasha</German>
+		<Italian>Mehmet Ali Pasha</Italian>
+		<Spanish>Mehmet Ali Pasha</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MEMBERTOU</Tag>
+		<English>Henri Membertou</English>
+		<French>Henri Membertou</French>
+		<German>Henri Membertou</German>
+		<Italian>Henri Membertou</Italian>
+		<Spanish>Henri Membertou</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MENELIK_II</Tag>
+		<English>Menelik II</English>
+		<French>Menelik II</French>
+		<German>Menelik II</German>
+		<Italian>Menelik II</Italian>
+		<Spanish>Menelik II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MENTEWAB</Tag>
+		<English>Mentewab</English>
+		<French>Mentewab</French>
+		<German>Mentewab</German>
+		<Italian>Mentewab</Italian>
+		<Spanish>Mentewab</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MIKLOS_HORTHY</Tag>
+		<English>Miklos Horthy</English>
+		<French>Miklos Horthy</French>
+		<German>Miklos Horthy</German>
+		<Italian>Miklos Horthy</Italian>
+		<Spanish>Miklos Horthy</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MINAMOTO_NO_YORITOMO</Tag>
+		<English>Minamoto no Yoritomo</English>
+		<French>Minamoto no Yoritomo</French>
+		<German>Minamoto no Yoritomo</German>
+		<Italian>Minamoto no Yoritomo</Italian>
+		<Spanish>Minamoto no Yoritomo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MING_YONGLE</Tag>
+		<English>Ming Yongle</English>
+		<French>Ming Yongle</French>
+		<German>Ming Yongle</German>
+		<Italian>Ming Yongle</Italian>
+		<Spanish>Ming Yongle</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MITHRIDATES_I_PARTHIA</Tag>
+		<English>Mithridates I of Parthia</English>
+		<French>Mithridates I of Parthia</French>
+		<German>Mithridates I of Parthia</German>
+		<Italian>Mithridates I of Parthia</Italian>
+		<Spanish>Mithridates I of Parthia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MITHRIDATES_VI_EUPATOR</Tag>
+		<English>Mithridates VI Eupator</English>
+		<French>Mithridates VI Eupator</French>
+		<German>Mithridates VI Eupator</German>
+		<Italian>Mithridates VI Eupator</Italian>
+		<Spanish>Mithridates VI Eupator</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MONTEZUMA_II</Tag>
+		<English>Moctezuma II</English>
+		<French>Moctezuma II</French>
+		<German>Moctezuma II</German>
+		<Italian>Moctezuma II</Italian>
+		<Spanish>Moctezuma II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MOSHOESHOE_I</Tag>
+		<English>Moshoeshoe I</English>
+		<French>Moshoeshoe I</French>
+		<German>Moshoeshoe I</German>
+		<Italian>Moshoeshoe I</Italian>
+		<Spanish>Moshoeshoe I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MUAWIYAH_I</Tag>
+		<English>Muawiyah I</English>
+		<French>Muawiyah I</French>
+		<German>Muawiyah I</German>
+		<Italian>Muawiyah I</Italian>
+		<Spanish>Muawiyah I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MUHAMMAD_OF_GHOR</Tag>
+		<English>Muhammad of Ghor</English>
+		<French>Muhammad of Ghor</French>
+		<German>Muhammad of Ghor</German>
+		<Italian>Muhammad of Ghor</Italian>
+		<Spanish>Muhammad of Ghor</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MUSTAFA_KEMAL_ATATURK</Tag>
+		<English>Mustafa Kemal Ataturk</English>
+		<French>Mustafa Kemal Ataturk</French>
+		<German>Mustafa Kemal Atat&#252;rk</German>
+		<Italian>Mustafa Kemal Ataturk</Italian>
+		<Spanish>Mustafa Kemal Ataturk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MUTSUHITO</Tag>
+		<English>Mutsuhito</English>
+		<French>Mutsuhito</French>
+		<German>Mutsuhito</German>
+		<Italian>Mutsuhito</Italian>
+		<Spanish>Mutsuhito</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_NADER</Tag>
+		<English>Nader Shah Afshar</English>
+		<French>N&#226;dir Sh&#226;h</French>
+		<German>Nadir Schah</German>
+		<Italian>Nader Shah</Italian>
+		<Spanish>Nader Shah</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_NAPOLEON</Tag>
+		<English>Napoleon I</English>
+		<French>Napoleon I</French>
+		<German>Napoleon I</German>
+		<Italian>Napoleon I</Italian>
+		<Spanish>Napoleon I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_NAPOLEON_III</Tag>
+		<English>Napoleon III</English>
+		<French>Napoleon III</French>
+		<German>Napoleon III</German>
+		<Italian>Napoleon III</Italian>
+		<Spanish>Napoleon III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_NELSON_MANDELA</Tag>
+		<English>Nelson Mandela</English>
+		<French>Nelson Mandela</French>
+		<German>Nelson Mandela</German>
+		<Italian>Nelson Mandela</Italian>
+		<Spanish>Nelson Mandela</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_NEZAHUALCOYOTL</Tag>
+		<English>Nezahualcoyotl</English>
+		<French>Nezahualcoyotl</French>
+		<German>Nezahualcoyotl</German>
+		<Italian>Nezahualcoyotl</Italian>
+		<Spanish>Nezahualcoyotl</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_NICOLAS_COTONER</Tag>
+		<English>Nicolas Cotoner</English>
+		<French>Nicolas Cotoner</French>
+		<German>Nicolas Cotoner</German>
+		<Italian>Nicolas Cotoner</Italian>
+		<Spanish>Nicolas Cotoner</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_NYATSIMBA</Tag>
+		<English>Nyatsimba Mutota</English>
+		<French>Nyatsimba Mutota</French>
+		<German>Nyatsimba Mutota</German>
+		<Italian>Nyatsimba Mutota</Italian>
+		<Spanish>Nyatsimba Mutota</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_OCEANIAN</Tag>
+		<English>Gambu Ganuurru</English>
+		<French>Gambu Ganuurru</French>
+		<German>Gambu Ganuurru</German>
+		<Italian>Gambu Ganuurru</Italian>
+		<Spanish>Gambu Ganuurru</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ODA_NOBUNAGA</Tag>
+		<English>Oda Nobunaga</English>
+		<French>Oda Nobunaga</French>
+		<German>Oda Nobunaga</German>
+		<Italian>Oda Nobunaga</Italian>
+		<Spanish>Oda Nobunaga</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_OGEDEI_KHAN</Tag>
+		<English>Ogedei Khan</English>
+		<French>Ogedei Khan</French>
+		<German>Ogedei Khan</German>
+		<Italian>Ogedei Khan</Italian>
+		<Spanish>Ogedei Khan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_OLIVER_CROMWELL</Tag>
+		<English>Oliver Cromwell</English>
+		<French>Oliver Cromwell</French>
+		<German>Oliver Cromwell</German>
+		<Italian>Oliver Cromwell</Italian>
+		<Spanish>Oliver Cromwell</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_OTTO</Tag>
+		<English>Otto I</English>
+		<French>Otto I</French>
+		<German>Otto I</German>
+		<Italian>Otto I</Italian>
+		<Spanish>Otto I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_OZ_BEG_KHAN</Tag>
+		<English>Oz Beg Khan</English>
+		<French>Oz Beg Khan</French>
+		<German>Oz Beg Khan</German>
+		<Italian>Oz Beg Khan</Italian>
+		<Spanish>Oz Beg Khan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_PACHACUTI</Tag>
+		<English>Pachacuti</English>
+		<French>Pachacuti</French>
+		<German>Pachac&#250;tec Yupanqui</German>
+		<Italian>Pachacuti</Italian>
+		<Spanish>Pachacuti</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_PARAMESWARA</Tag>
+		<English>Parameswara</English>
+		<French>Parameswara</French>
+		<German>Parameswara</German>
+		<Italian>Parameswara</Italian>
+		<Spanish>Parameswara</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_PATAGONIAN_LONKO</Tag>
+		<English>Lautaro</English>
+		<French>Lautaro</French>
+		<German>Lautaro</German>
+		<Italian>Lautaro</Italian>
+		<Spanish>Lautaro</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_PELJIDIIN_GENDEN</Tag>
+		<English>Peljidiin Genden</English>
+		<French>Peljidiin Genden</French>
+		<German>Peljidiin Genden</German>
+		<Italian>Peljidiin Genden</Italian>
+		<Spanish>Peljidiin Genden</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_PER_ALBIN_HANSSON</Tag>
+		<English>Per Albin Hansson</English>
+		<French>Per Albin Hansson</French>
+		<German>Per Albin Hansson</German>
+		<Italian>Per Albin Hansson</Italian>
+		<Spanish>Per Albin Hansson</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_PERICLES</Tag>
+		<English>Pericles</English>
+		<French>Pericles</French>
+		<German>Perikles</German>
+		<Italian>Pericles</Italian>
+		<Spanish>Pericles</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_PETER</Tag>
+		<English>Peter I</English>
+		<French>Peter I</French>
+		<German>Peter I</German>
+		<Italian>Peter I</Italian>
+		<Spanish>Peter I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_PHILIP_II_AUGUSTUS</Tag>
+		<English>Philip II Augustus</English>
+		<French>Philip II Augustus</French>
+		<German>Philip II Augustus</German>
+		<Italian>Philip II Augustus</Italian>
+		<Spanish>Philip II Augustus</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_POPE_ALEXANDER_BORGIA</Tag>
+		<English>Pope Alexander VI Borgia</English>
+		<French>Pope Alexander VI Borgia</French>
+		<German>Pope Alexander VI Borgia</German>
+		<Italian>Pope Alexander VI Borgia</Italian>
+		<Spanish>Pope Alexander VI Borgia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_PRESTER_JOHN</Tag>
+		<English>Prester John</English>
+		<French>Prester John</French>
+		<German>Prester John</German>
+		<Italian>Prester John</Italian>
+		<Spanish>Prester John</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_PRITHVIRAJ_CHAUHAN</Tag>
+		<English>Prithviraj Chauhan</English>
+		<French>Prithviraj Chauhan</French>
+		<German>Prithviraj Chauhan</German>
+		<Italian>Prithviraj Chauhan</Italian>
+		<Spanish>Prithviraj Chauhan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_PTOLEMY_SOTER</Tag>
+		<English>Ptolemy I Soter</English>
+		<French>Ptolemy I Soter</French>
+		<German>Ptolemy I Soter</German>
+		<Italian>Ptolemy I Soter</Italian>
+		<Spanish>Ptolemy I Soter</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_RANGATIRA</Tag>
+		<English>Kamehameha I</English>
+		<French>Kamehameha I</French>
+		<German>Kamehameha I</German>
+		<Italian>Kamehameha I</Italian>
+		<Spanish>Kamehameha I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_RAONI</Tag>
+		<English>Raoni Metuktire</English>
+		<French>Raoni Metuktire</French>
+		<German>Raoni Metuktire</German>
+		<Italian>Raoni Metuktire</Italian>
+		<Spanish>Raoni Metuktire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_REZA_SHAH</Tag>
+		<English>Reza Shah</English>
+		<French>Reza Shah</French>
+		<German>Reza Shah</German>
+		<Italian>Reza Shah</Italian>
+		<Spanish>Reza Shah</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ROBERT_THE_BRUCE</Tag>
+		<English>Robert the Bruce</English>
+		<French>Robert the Bruce</French>
+		<German>Robert the Bruce</German>
+		<Italian>Robert the Bruce</Italian>
+		<Spanish>Robert the Bruce</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ROGER_II</Tag>
+		<English>Roger II</English>
+		<French>Roger II</French>
+		<German>Roger II</German>
+		<Italian>Roger II</Italian>
+		<Spanish>Roger II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SAM_HOUSTON</Tag>
+		<English>Sam Houston</English>
+		<French>Sam Houston</French>
+		<German>Sam Houston</German>
+		<Italian>Sam Houston</Italian>
+		<Spanish>Sam Houston</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SANTA_ANNA</Tag>
+		<English>Sim&#243;n Bol&#237;var</English>
+		<French>Sim&#243;n Bol&#237;var</French>
+		<German>Sim&#243;n Bol&#237;var</German>
+		<Italian>Sim&#243;n Bol&#237;var</Italian>
+		<Spanish>Sim&#243;n Bol&#237;var</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SEJONG</Tag>
+		<English>Sejong Taewang</English>
+		<French>Sejong Taewang</French>
+		<German>Sejong Taewang</German>
+		<Italian>Sejong Taewang</Italian>
+		<Spanish>Sejong Taewang</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SELEUCUS_NICATOR</Tag>
+		<English>Seleucus I Nicator</English>
+		<French>Seleucus I Nicator</French>
+		<German>Seleucus I Nicator</German>
+		<Italian>Seleucus I Nicator</Italian>
+		<Spanish>Seleucus I Nicator</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SEONGJONG_JOSEON</Tag>
+		<English>Seongjong of Joseon</English>
+		<French>Seongjong of Joseon</French>
+		<German>Seongjong of Joseon</German>
+		<Italian>Seongjong of Joseon</Italian>
+		<Spanish>Seongjong of Joseon</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SEONDEOK</Tag>
+		<English>
+			<Text>Seondeok of Silla</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</English>
+		<French>
+			<Text>Seondeok of Silla</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Seondeok of Silla</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Seondeok of Silla</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Seondeok of Silla</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SEQUOYAH</Tag>
+		<English>Sequoyah</English>
+		<French>Sequoyah</French>
+		<German>Sequoyah</German>
+		<Italian>Sequoyah</Italian>
+		<Spanish>Sequoyah</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SHAMAMUN</Tag>
+		<English>Shamamun</English>
+		<French>Shamamun</French>
+		<German>Shamamun</German>
+		<Italian>Shamamun</Italian>
+		<Spanish>Shamamun</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SHARIF</Tag>
+		<English>Sharif</English>
+		<French>Sharif</French>
+		<German>Sharif</German>
+		<Italian>Sharif</Italian>
+		<Spanish>Sharif</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SHIVAJI</Tag>
+		<English>Shivaji Bhonsle</English>
+		<French>Shiv&#226;j&#238; Bhonsla</French>
+		<German>Shivaji Maharaj</German>
+		<Italian>Shivaji Bhonsle</Italian>
+		<Spanish>Shivaji Bhonsle</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SIGURD_THE_CRUSADER</Tag>
+		<English>Sigurd the Crusader</English>
+		<French>Sigurd the Crusader</French>
+		<German>Sigurd the Crusader</German>
+		<Italian>Sigurd the Crusader</Italian>
+		<Spanish>Sigurd the Crusader</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SITTING_BULL</Tag>
+		<English>Sitting Bull</English>
+		<French>Sitting Bull</French>
+		<German>Sitting Bull</German>
+		<Italian>Sitting Bull</Italian>
+		<Spanish>Sitting Bull</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SONG_HUIZONG</Tag>
+		<English>Song Huizong</English>
+		<French>Song Huizong</French>
+		<German>Song Huizong</German>
+		<Italian>Song Huizong</Italian>
+		<Spanish>Song Huizong</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SPEARTHROWER_OWL</Tag>
+		<English>Spearthrower Owl</English>
+		<French>Spearthrower Owl</French>
+		<German>Spearthrower Owl</German>
+		<Italian>Spearthrower Owl</Italian>
+		<Spanish>Spearthrower Owl</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_STALIN</Tag>
+		<English>Joseph Stalin</English>
+		<French>Joseph Stalin</French>
+		<German>Joseph Stalin</German>
+		<Italian>Joseph Stalin</Italian>
+		<Spanish>Joseph Stalin</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_STEFAN_NEMANJA</Tag>
+		<English>Stefan Nemanja</English>
+		<French>Stefan Nemanja</French>
+		<German>Stefan Nemanja</German>
+		<Italian>Stefan Nemanja</Italian>
+		<Spanish>Stefan Nemanja</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ISTVAN</Tag>
+		<English>Stephen I the Saint</English>
+		<French>Stephen I the Saint</French>
+		<German>Stephen I the Saint</German>
+		<Italian>Stephen I the Saint</Italian>
+		<Spanish>Stephen I the Saint</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_STEFEN_BATHORY</Tag>
+		<English>Stephen Bathory</English>
+		<French>Stephen Bathory</French>
+		<German>Stephen Bathory</German>
+		<Italian>Stephen Bathory</Italian>
+		<Spanish>Stephen Bathory</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SULEIMAN</Tag>
+		<English>Suleyman Kanuni</English>
+		<French>Suleyman Kanuni</French>
+		<German>S&#252;leyman der Pr&#228;chtige </German>
+		<Italian>Suleyman Kanuni</Italian>
+		<Spanish>Suleyman Kanuni</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SUKARNO</Tag>
+		<English>Sukarno</English>
+		<French>Sukarno</French>
+		<German>Sukarno</German>
+		<Italian>Sukarno</Italian>
+		<Spanish>Sukarno</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SULTAN_AGUNG</Tag>
+		<English>Sultan Agung</English>
+		<French>Sultan Agung</French>
+		<German>Sultan Agung</German>
+		<Italian>Sultan Agung</Italian>
+		<Spanish>Sultan Agung</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SUN_QUAN</Tag>
+		<English>Sun Quan</English>
+		<French>Sun Quan</French>
+		<German>Sun Quan</German>
+		<Italian>Sun Quan</Italian>
+		<Spanish>Sun Quan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SUN_YAT_SEN</Tag>
+		<English>Sun Yat-Sen</English>
+		<French>Sun Yat-Sen</French>
+		<German>Sun Yat-Sen</German>
+		<Italian>Sun Yat-Sen</Italian>
+		<Spanish>Sun Yat-Sen</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SUNDIATA_KEITA</Tag>
+		<English>Sundiata Keita</English>
+		<French>Sundiata Keita</French>
+		<German>Sundiata Keita</German>
+		<Italian>Sundiata Keita</Italian>
+		<Spanish>Sundiata Keita</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SURYAVARMAN</Tag>
+		<English>Suryavarman II</English>
+		<French>Suryavarman II</French>
+		<German>Suryavarman II</German>
+		<Italian>Suryavarman II</Italian>
+		<Spanish>Suryavarman II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SWAHILI</Tag>
+		<English>Muteesa I</English>
+		<French>Muteesa I</French>
+		<German>Muteesa I</German>
+		<Italian>Muteesa I</Italian>
+		<Spanish>Muteesa I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SYNGMAN_RHEE</Tag>
+		<English>Syngman Rhee</English>
+		<French>Syngman Rhee</French>
+		<German>Syngman Rhee</German>
+		<Italian>Syngman Rhee</Italian>
+		<Spanish>Syngman Rhee</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TAEJO_WANGKON</Tag>
+		<English>Taejo Wang Geon</English>
+		<French>Taejo Wang Geon</French>
+		<German>Taejo Wang Geon</German>
+		<Italian>Taejo Wang Geon</Italian>
+		<Spanish>Taejo Wang Geon</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TAHARQA</Tag>
+		<English>Taharqa</English>
+		<French>Taharqa</French>
+		<German>Taharqa</German>
+		<Italian>Taharqa</Italian>
+		<Spanish>Taharqa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TAMIM_ZIRID</Tag>
+		<English>Tamim ibn al-Mu'izz</English>
+		<French>Tamim ibn al-Mu'izz</French>
+		<German>Tamim ibn al-Mu'izz</German>
+		<Italian>Tamim ibn al-Mu'izz</Italian>
+		<Spanish>Tamim ibn al-Mu'izz</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TANG</Tag>
+		<English>Tang Taizong</English>
+		<French>Tang Taizong</French>
+		<German>Tang Taizong</German>
+		<Italian>Tang Taizong</Italian>
+		<Spanish>Tang Taizong</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TEWODROS_II</Tag>
+		<English>Tewodros II</English>
+		<French>Tewodros II</French>
+		<German>Tewodros II</German>
+		<Italian>Tewodros II</Italian>
+		<Spanish>Tewodros II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_THEMISTOCLES</Tag>
+		<English>Themistocles</English>
+		<French>Th&#233;mistocle</French>
+		<German>Themistokles</German>
+		<Italian>Themistocles</Italian>
+		<Spanish>Themistocles</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_THEODORE_GABRAS</Tag>
+		<English>Theodore Gabras</English>
+		<French>Theodore Gabras</French>
+		<German>Theodore Gabras</German>
+		<Italian>Theodore Gabras</Italian>
+		<Spanish>Theodore Gabras</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_THEODORE_ROOSEVELT</Tag>
+		<English>Theodore Roosevelt</English>
+		<French>Theodore Roosevelt</French>
+		<German>Theodore Roosevelt</German>
+		<Italian>Theodore Roosevelt</Italian>
+		<Spanish>Theodore Roosevelt</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_THEODORIC</Tag>
+		<English>Theodoric</English>
+		<French>Theodoric</French>
+		<German>Theodoric</German>
+		<Italian>Theodoric</Italian>
+		<Spanish>Theodoric</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_THOMAS_JEFFERSON</Tag>
+		<English>Thomas Jefferson</English>
+		<French>Thomas Jefferson</French>
+		<German>Thomas Jefferson</German>
+		<Italian>Thomas Jefferson</Italian>
+		<Spanish>Thomas Jefferson</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_THOROS_II</Tag>
+		<English>Thoros II</English>
+		<French>Thoros II</French>
+		<German>Thoros II</German>
+		<Italian>Thoros II</Italian>
+		<Spanish>Thoros II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TIGRANES</Tag>
+		<English>Tigranes II</English>
+		<French>Tigranes II</French>
+		<German>Tigranes II</German>
+		<Italian>Tigranes II</Italian>
+		<Spanish>Tigranes II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TIMUR</Tag>
+		<English>Timur</English>
+		<French>Timur</French>
+		<German>Timur</German>
+		<Italian>Timur</Italian>
+		<Spanish>Timur</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TIPU_SULTAN</Tag>
+		<English>Tipu Sultan</English>
+		<French>Tipu Sultan</French>
+		<German>Tipu Sultan</German>
+		<Italian>Tipu Sultan</Italian>
+		<Spanish>Tipu Sultan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TIRIDATES_I</Tag>
+		<English>Tiridates I</English>
+		<French>Tiridates I</French>
+		<German>Tiridates I</German>
+		<Italian>Tiridates I</Italian>
+		<Spanish>Tiridates I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TIRIDATES_III</Tag>
+		<English>Tiridates III</English>
+		<French>Tiridates III</French>
+		<German>Tiridates III</German>
+		<Italian>Tiridates III</Italian>
+		<Spanish>Tiridates III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TLACAELEL</Tag>
+		<English>Tlacaelel</English>
+		<French>Tlacaelel</French>
+		<German>Tlacaelel</German>
+		<Italian>Tlacaelel</Italian>
+		<Spanish>Tlacaelel</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TOGHTEKIN</Tag>
+		<English>Toghtekin</English>
+		<French>Toghtekin</French>
+		<German>Toghtekin</German>
+		<Italian>Toghtekin</Italian>
+		<Spanish>Toghtekin</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TOKUGAWA</Tag>
+		<English>Tokugawa Ieyasu</English>
+		<French>
+			<Text>Tokugawa Ieyasu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Tokugawa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Tokugawa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Tokugawa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TRAJAN</Tag>
+		<English>Trajan</English>
+		<French>Trajan</French>
+		<German>Trajan</German>
+		<Italian>Trajan</Italian>
+		<Spanish>Trajan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TUPAC_AMARU_II</Tag>
+		<English>Tupac Amaru II</English>
+		<French>Tupac Amaru II</French>
+		<German>Tupac Amaru II</German>
+		<Italian>Tupac Amaru II</Italian>
+		<Spanish>Tupac Amaru II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TUPACINCA</Tag>
+		<English>Tupac Inca</English>
+		<French>Tupac Inca</French>
+		<German>Tupac Inca</German>
+		<Italian>Tupac Inca</Italian>
+		<Spanish>Tupac Inca</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ULUGHBEG</Tag>
+		<English>Ulugh Beg</English>
+		<French>Ulugh Beg</French>
+		<German>Ulugh Beg</German>
+		<Italian>Ulugh Beg</Italian>
+		<Spanish>Ulugh Beg</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_UMAR</Tag>
+		<English>Umar ibn al-Khattab</English>
+		<French>Umar ibn al-Khattab</French>
+		<German>Umar ibn al-Khattab</German>
+		<Italian>Umar ibn al-Khattab</Italian>
+		<Spanish>Umar ibn al-Khattab</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_WEN_OF_SUI</Tag>
+		<English>Wen of Sui</English>
+		<French>Wen of Sui</French>
+		<German>Wen of Sui</German>
+		<Italian>Wen of Sui</Italian>
+		<Spanish>Wen of Sui</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_XIAO_OF_QIN</Tag>
+		<English>Xiao of Qin</English>
+		<French>Xiao of Qin</French>
+		<German>Xiao of Qin</German>
+		<Italian>Xiao of Qin</Italian>
+		<Spanish>Xiao of Qin</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_POPE_URBAN_II</Tag>
+		<English>Pope Blessed Urban II</English>
+		<French>Pope Blessed Urban II</French>
+		<German>Pope Blessed Urban II</German>
+		<Italian>Pope Blessed Urban II</Italian>
+		<Spanish>Pope Blessed Urban II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_TR_TEAM</Tag>
+		<English>TR Team</English>
+		<French>TR Team</French>
+		<German>Total Realism Team</German>
+		<Italian>TR Team</Italian>
+		<Spanish>TR Team</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_VASILE_LUPU</Tag>
+		<English>Vasile Lupu</English>
+		<French>Vasile Lupu</French>
+		<German>Vasile Lupu</German>
+		<Italian>Vasile Lupu</Italian>
+		<Spanish>Vasile Lupu</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_VERCINGETORIX</Tag>
+		<English>Vercingetorix</English>
+		<French>Vercingetorix</French>
+		<German>Vercingetorix</German>
+		<Italian>Vercingetorix</Italian>
+		<Spanish>Vercingetorix</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_VLADIMIR_II_MONOMAKH</Tag>
+		<English>Vladimir II Monomakh</English>
+		<French>Vladimir II Monomakh</French>
+		<German>Vladimir II Monomakh</German>
+		<Italian>Vladimir II Monomakh</Italian>
+		<Spanish>Vladimir II Monomakh</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_WAR_CHIEF</Tag>
+		<English>Ekeuhnick</English>
+		<French>Ekeuhnick</French>
+		<German>Ekeuhnick</German>
+		<Italian>Ekeuhnick</Italian>
+		<Spanish>Ekeuhnick</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_WASHINGTON</Tag>
+		<English>George Washington</English>
+		<French>George Washington</French>
+		<German>George Washington</German>
+		<Italian>George Washington</Italian>
+		<Spanish>George Washington</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_WUDI</Tag>
+		<English>Wu of Han</English>
+		<French>Wu of Han</French>
+		<German>Wu of Han</German>
+		<Italian>Wu of Han</Italian>
+		<Spanish>Wu of Han</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_WAHUNSENACAWH</Tag>
+		<English>Pontiac</English>
+		<French>Pontiac</French>
+		<German>Pontiac</German>
+		<Italian>Pontiac</Italian>
+		<Spanish>Pontiac</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_YUSUF_IBN_TASHFIN</Tag>
+		<English>Yusuf ibn Tashfin</English>
+		<French>Yusuf ibn Tashfin</French>
+		<German>Yusuf ibn Tashfin</German>
+		<Italian>Yusuf ibn Tashfin</Italian>
+		<Spanish>Yusuf ibn Tashfin</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_IMPERIAL</Tag>
+		<English>Magistrate</English>
+		<French>Magistrate</French>
+		<German>Magistrate</German>
+		<Italian>Magistrate</Italian>
+		<Spanish>Magistrate</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_INNOCENT_X</Tag>
+		<English>Pope Innocent X</English>
+		<French>Pope Innocent X</French>
+		<German>Pope Innocent X</German>
+		<Italian>Pope Innocent X</Italian>
+		<Spanish>Pope Innocent X</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_FRAN_DIVO_GUNDULIC</Tag>
+		<English>Fran Divo Gundulic</English>
+		<French>Fran Divo Gundulic</French>
+		<German>Fran Divo Gundulic</German>
+		<Italian>Fran Divo Gundulic</Italian>
+		<Spanish>Fran Divo Gundulic</Spanish>
+	</TEXT>
+</Civ4GameText>
