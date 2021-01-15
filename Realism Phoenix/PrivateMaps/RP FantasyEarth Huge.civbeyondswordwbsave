@@ -39020,6 +39020,7 @@ BeginPlot
 	x=61,y=10
 	RiverNSDirection=2
 	isWOfRiver
+	FeatureType=FERTILE_SOIL_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 EndPlot
@@ -40766,7 +40767,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=64,y=18
-	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
+	FeatureType=FERTILE_SOIL_GRASS, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -43068,7 +43069,7 @@ BeginPlot
 	x=68,y=10
 	RiverNSDirection=2
 	isWOfRiver
-	FeatureType=FEATURE_SAVANNA, FeatureVariety=0
+	FeatureType=FERTILE_SOIL_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 EndPlot
@@ -79371,7 +79372,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=131,y=45
-	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
+	FeatureType=FERTILE_SOIL_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -82103,7 +82104,7 @@ EndPlot
 BeginPlot
 	x=136,y=42
 	ImprovementType=IMPROVEMENT_GOODY_HUT
-	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
+	FeatureType=FERTILE_SOIL_GRASS, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -88827,7 +88828,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=3
 	isWOfRiver
-	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	FeatureType=FERTILE_SOIL_GRASS, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -89309,7 +89310,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=150,y=34
-	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
+	FeatureType=FERTILE_SOIL_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	TeamReveal=0,
@@ -94444,7 +94445,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=159,y=32
-	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
+	FeatureType=FERTILE_SOIL_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
