@@ -33,7 +33,7 @@
 			<iOutsideCityCongestionThresholdChange>0</iOutsideCityCongestionThresholdChange>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
-			<bDisable>0</bDisable>
+			<bDisable>1</bDisable>
 			<bGoodyTech>0</bGoodyTech>
 			<bExtraWaterSeeFrom>0</bExtraWaterSeeFrom>
 			<bMapCentering>0</bMapCentering>
