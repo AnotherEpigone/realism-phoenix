@@ -9,6 +9,10 @@
 
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
+		<Tag>TXT_KEY_LEADER_BLESSED_KARL</Tag>
+		<English>Karl I</English>
+	</TEXT>
+	<TEXT>
 		<Tag>TXT_KEY_LEADER_ABBAS</Tag>
 		<English>Abbas I</English>
 		<French>Abbas le Grand</French>

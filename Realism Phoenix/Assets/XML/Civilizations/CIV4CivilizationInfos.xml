@@ -10749,6 +10749,10 @@
 					<LeaderName>LEADER_ISTVAN</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
+				<Leader>
+					<LeaderName>LEADER_BLESSED_KARL</LeaderName>
+					<bLeaderAvailability>1</bLeaderAvailability>
+				</Leader>
 			</Leaders>
 			<DerivativeCivs>
 				<DerivativeCiv>
